@@ -265,7 +265,9 @@ export default function CareerAnalysisView({ currency = 'INR', onNavigateToRoadm
   }, []);
 
   const currentJob = analysisResult?.top_recommendations?.[selectedJobIndex] ||
-    analysisResult?.top_recommendations?.  return (
+    analysisResult?.top_recommendations?.[0];
+
+  return (
     <div className="page-enter" style={{ display: 'flex', flexDirection: 'column', gap: 32 }}>
       {/* ── Hero / Header ──────────────────────────────────────── */}
       <section className="hero anim-fade-up">
