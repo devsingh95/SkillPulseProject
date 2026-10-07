@@ -18,11 +18,15 @@ export default function Navbar({ activeTab, setActiveTab, currency, setCurrency,
       <div className="navbar-inner" style={{ maxWidth: 1360 }}>
         {/* Brand */}
         <div className="brand" onClick={() => setActiveTab('career')} style={{ cursor: 'pointer' }}>
-          <div className="brand-icon">⚡</div>
+          <div className="brand-icon">
+            <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2.5" strokeLinecap="round" strokeLinejoin="round" style={{ color: '#fff' }}>
+              <polyline points="22 12 18 12 15 21 9 3 6 12 2 12" />
+            </svg>
+          </div>
           <span className="brand-name">Skill<span className="brand-accent">Pulse</span></span>
           <span style={{
             fontSize: '0.68rem',
-            padding: '2px 6px',
+            padding: '2px 7px',
             borderRadius: 4,
             background: 'rgba(99,102,241,0.15)',
             color: 'var(--c-indigo)',
@@ -61,7 +65,7 @@ export default function Navbar({ activeTab, setActiveTab, currency, setCurrency,
           >
             <option value="">Custom Profile</option>
             {PERSONAS.map(p => (
-              <option key={p.id} value={p.id}>👤 {p.name}</option>
+              <option key={p.id} value={p.id}>{p.name}</option>
             ))}
           </select>
 
@@ -80,6 +84,35 @@ export default function Navbar({ activeTab, setActiveTab, currency, setCurrency,
           >
             {theme === 'dark' ? <Sun size={15} color="#fbbf24" /> : <Moon size={15} color="#6366f1" />}
           </button>
+
+          {/* Active Candidate Badge */}
+          <div style={{
+            display: 'flex',
+            alignItems: 'center',
+            gap: 7,
+            padding: '4px 10px 4px 6px',
+            borderRadius: 20,
+            background: 'var(--bg-raised)',
+            border: '1px solid var(--border-default)',
+            marginLeft: 4
+          }}>
+            <span style={{
+              width: 22,
+              height: 22,
+              borderRadius: '50%',
+              background: 'var(--grad-brand)',
+              display: 'flex',
+              alignItems: 'center',
+              justifyContent: 'center',
+              fontSize: '0.68rem',
+              fontWeight: 800,
+              color: '#fff'
+            }}>
+              DS
+            </span>
+            <span style={{ fontSize: '0.74rem', fontWeight: 600, color: 'var(--c-text)' }}>Dev Singh</span>
+            <span style={{ fontSize: '0.62rem', padding: '1px 5px', borderRadius: 10, background: 'rgba(52,211,153,0.15)', color: 'var(--c-emerald)', fontWeight: 700 }}>Online</span>
+          </div>
         </div>
       </div>
     </header>
