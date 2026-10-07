@@ -1,0 +1,1755 @@
+{
+  "overview": {
+    "totalAnalyticsJobs": 15841,
+    "totalDataSciencePostings": 1602,
+    "totalCombinedOpenings": 93005,
+    "jdsCandidatesEvaluated": 139,
+    "sdsLeadersEvaluated": 161,
+    "years": "2024-2025",
+    "source": "Official SAS Hackathon Datasets"
+  },
+  "jdsModel": {
+    "intercept": -21.7739,
+    "weights": {
+      "big_data_skills": 0.7533,
+      "maths-stats_skills": 1.4513,
+      "coding_skills": 0.5896,
+      "ai_and_ml_skills": 1.0425,
+      "dashboard_and_storytelling_skills": 1.1861
+    },
+    "totalSample": 139,
+    "highHikeRate": 52.5,
+    "stats": {
+      "big_data_skills": {
+        "mean": 3.85,
+        "median": 3.8,
+        "min": 2.3,
+        "max": 5.0,
+        "q25": 3.1,
+        "q75": 4.6,
+        "lowMean": 3.75,
+        "highMean": 3.94
+      },
+      "maths-stats_skills": {
+        "mean": 4.29,
+        "median": 4.6,
+        "min": 2.2,
+        "max": 5.0,
+        "q25": 3.8,
+        "q75": 5.0,
+        "lowMean": 3.83,
+        "highMean": 4.71
+      },
+      "coding_skills": {
+        "mean": 4.27,
+        "median": 4.6,
+        "min": 2.2,
+        "max": 5.0,
+        "q25": 3.35,
+        "q75": 5.0,
+        "lowMean": 3.85,
+        "highMean": 4.64
+      },
+      "ai_and_ml_skills": {
+        "mean": 4.57,
+        "median": 4.9,
+        "min": 2.2,
+        "max": 5.0,
+        "q25": 4.4,
+        "q75": 5.0,
+        "lowMean": 4.28,
+        "highMean": 4.82
+      },
+      "dashboard_and_storytelling_skills": {
+        "mean": 4.36,
+        "median": 5.0,
+        "min": 2.3,
+        "max": 5.0,
+        "q25": 3.75,
+        "q75": 5.0,
+        "lowMean": 3.81,
+        "highMean": 4.85
+      }
+    }
+  },
+  "sdsModel": {
+    "intercept": -36.1046,
+    "weights": {
+      "neuroticism": 0.1207,
+      "extraversion": 0.1123,
+      "openness_to_experience": 0.2672,
+      "agreeableness": 0.0794,
+      "conscientiousness": 0.2473
+    },
+    "totalSample": 161,
+    "highSuccessRate": 52.8,
+    "stats": {
+      "neuroticism": {
+        "mean": 36.2,
+        "median": 34.0,
+        "min": 17.0,
+        "max": 68.0,
+        "q25": 27.0,
+        "q75": 44.0,
+        "lowMean": 36.3,
+        "highMean": 36.1
+      },
+      "extraversion": {
+        "mean": 43.2,
+        "median": 45.0,
+        "min": 17.0,
+        "max": 67.0,
+        "q25": 34.0,
+        "q75": 53.0,
+        "lowMean": 36.9,
+        "highMean": 48.9
+      },
+      "openness_to_experience": {
+        "mean": 41.3,
+        "median": 44.0,
+        "min": 18.0,
+        "max": 65.0,
+        "q25": 32.0,
+        "q75": 49.0,
+        "lowMean": 33.3,
+        "highMean": 48.5
+      },
+      "agreeableness": {
+        "mean": 44.6,
+        "median": 46.0,
+        "min": 17.0,
+        "max": 68.0,
+        "q25": 39.0,
+        "q75": 51.0,
+        "lowMean": 41.1,
+        "highMean": 47.7
+      },
+      "conscientiousness": {
+        "mean": 45.2,
+        "median": 49.0,
+        "min": 18.0,
+        "max": 66.0,
+        "q25": 35.0,
+        "q75": 56.0,
+        "lowMean": 35.7,
+        "highMean": 53.7
+      }
+    }
+  },
+  "rolesData": {
+    "Business Analyst": {
+      "title": "Business Analyst",
+      "postingsCount": 188,
+      "totalOpenings": 32843,
+      "medianMinExp": 2.0,
+      "avgSalary": 8.9,
+      "minSalary": 5.1,
+      "maxSalary": 14.3,
+      "topCompanies": [
+        "TCS",
+        "Accenture",
+        "Genpact",
+        "Wipro",
+        "Cognizant"
+      ]
+    },
+    "Data Analyst": {
+      "title": "Data Analyst",
+      "postingsCount": 187,
+      "totalOpenings": 18095,
+      "medianMinExp": 1.0,
+      "avgSalary": 5.7,
+      "minSalary": 3.2,
+      "maxSalary": 9.7,
+      "topCompanies": [
+        "TCS",
+        "Cognizant",
+        "Accenture",
+        "Capgemini",
+        "Wipro"
+      ]
+    },
+    "Data Architect": {
+      "title": "Data Architect",
+      "postingsCount": 50,
+      "totalOpenings": 528,
+      "medianMinExp": 10.0,
+      "avgSalary": 25.1,
+      "minSalary": 18.8,
+      "maxSalary": 34.0,
+      "topCompanies": [
+        "Accenture",
+        "TCS",
+        "Fiserv",
+        "IBM",
+        "Cognizant"
+      ]
+    },
+    "Data Engineer": {
+      "title": "Data Engineer",
+      "postingsCount": 188,
+      "totalOpenings": 8044,
+      "medianMinExp": 1.0,
+      "avgSalary": 11.8,
+      "minSalary": 7.1,
+      "maxSalary": 17.9,
+      "topCompanies": [
+        "TCS",
+        "IBM",
+        "L&T Infotech",
+        "Accenture",
+        "Cognizant"
+      ]
+    },
+    "Data Scientist": {
+      "title": "Data Scientist",
+      "postingsCount": 188,
+      "totalOpenings": 9051,
+      "medianMinExp": 2.0,
+      "avgSalary": 13.5,
+      "minSalary": 7.8,
+      "maxSalary": 21.5,
+      "topCompanies": [
+        "TCS",
+        "Accenture",
+        "IBM",
+        "Cognizant",
+        "Capgemini"
+      ]
+    },
+    "Machine Learning Engineer": {
+      "title": "Machine Learning Engineer",
+      "postingsCount": 59,
+      "totalOpenings": 964,
+      "medianMinExp": 1.0,
+      "avgSalary": 9.9,
+      "minSalary": 6.5,
+      "maxSalary": 14.5,
+      "topCompanies": [
+        "TCS",
+        "Quantiphi Analytics Solutions",
+        "Accenture",
+        "Wipro",
+        "Tiger Analytics"
+      ]
+    },
+    "Senior Business Analyst": {
+      "title": "Senior Business Analyst",
+      "postingsCount": 187,
+      "totalOpenings": 14115,
+      "medianMinExp": 4.0,
+      "avgSalary": 13.2,
+      "minSalary": 8.4,
+      "maxSalary": 19.0,
+      "topCompanies": [
+        "TCS",
+        "Accenture",
+        "Evalueserve",
+        "Cognizant",
+        "HCL Technologies"
+      ]
+    },
+    "Senior Data Analyst": {
+      "title": "Senior Data Analyst",
+      "postingsCount": 187,
+      "totalOpenings": 3825,
+      "medianMinExp": 3.0,
+      "avgSalary": 9.6,
+      "minSalary": 6.5,
+      "maxSalary": 13.5,
+      "topCompanies": [
+        "Accenture",
+        "Capgemini",
+        "TCS",
+        "Unilog Content Solutions ( P)",
+        "Cognizant"
+      ]
+    },
+    "Senior Data Engineer": {
+      "title": "Senior Data Engineer",
+      "postingsCount": 183,
+      "totalOpenings": 3411,
+      "medianMinExp": 4.0,
+      "avgSalary": 19.0,
+      "minSalary": 13.5,
+      "maxSalary": 25.0,
+      "topCompanies": [
+        "L&T Infotech",
+        "Quantiphi Analytics Solutions",
+        "IBM",
+        "Maersk",
+        "Optum"
+      ]
+    },
+    "Senior Data Scientist": {
+      "title": "Senior Data Scientist",
+      "postingsCount": 185,
+      "totalOpenings": 2129,
+      "medianMinExp": 4.0,
+      "avgSalary": 22.3,
+      "minSalary": 15.6,
+      "maxSalary": 30.0,
+      "topCompanies": [
+        "Accenture",
+        "TCS",
+        "Cognizant",
+        "Fractal Analytics",
+        "Ab Inbev"
+      ]
+    }
+  },
+  "roleCuratedSkills": {
+    "Data Scientist": {
+      "core": [
+        "Python",
+        "Machine Learning",
+        "Sql",
+        "Data Analysis",
+        "Deep Learning",
+        "Statistics"
+      ],
+      "recommended": [
+        "Sas",
+        "Nlp",
+        "Data Mining",
+        "Big Data",
+        "Tableau"
+      ],
+      "description": "Extract insights, train predictive ML models, and transform business challenges into algorithmic solutions.",
+      "avgSalaryLPA": 13.5,
+      "salaryRange": "4.5 - 21.5 LPA",
+      "openings": 9051,
+      "topHiring": [
+        "TCS",
+        "Accenture",
+        "IBM",
+        "Cognizant",
+        "Capgemini"
+      ]
+    },
+    "Senior Data Scientist": {
+      "core": [
+        "Machine Learning",
+        "Python",
+        "Big Data",
+        "Deep Learning",
+        "Sas",
+        "Statistical Modeling"
+      ],
+      "recommended": [
+        "Spark",
+        "Hadoop",
+        "Cloud Architecture",
+        "Executive Storytelling",
+        "Nlp"
+      ],
+      "description": "Lead enterprise AI strategy, architect scalable ML pipelines, and communicate strategic ROI to C-suite stakeholders.",
+      "avgSalaryLPA": 22.3,
+      "salaryRange": "8.5 - 30.0 LPA",
+      "openings": 2129,
+      "topHiring": [
+        "Accenture",
+        "IBM",
+        "TCS",
+        "Amazon",
+        "Deloitte"
+      ]
+    },
+    "Data Engineer": {
+      "core": [
+        "Hadoop",
+        "Spark",
+        "Sql",
+        "Python",
+        "Big Data",
+        "Etl"
+      ],
+      "recommended": [
+        "Hive",
+        "Java",
+        "Scala",
+        "Nosql",
+        "Cloud Platforms"
+      ],
+      "description": "Construct robust data pipelines, orchestrate distributed compute clusters, and ensure high-throughput data reliability.",
+      "avgSalaryLPA": 11.8,
+      "salaryRange": "2.1 - 17.9 LPA",
+      "openings": 8044,
+      "topHiring": [
+        "Cognizant",
+        "TCS",
+        "Accenture",
+        "Wipro",
+        "L&T Infotech"
+      ]
+    },
+    "Senior Data Engineer": {
+      "core": [
+        "Spark",
+        "Hadoop",
+        "Big Data",
+        "Hive",
+        "Python",
+        "Data Architecture"
+      ],
+      "recommended": [
+        "Scala",
+        "Kafka",
+        "Cloud Platforms",
+        "Nosql",
+        "Etl"
+      ],
+      "description": "Architect petabyte-scale distributed data platforms, optimize query latency, and lead data infrastructure teams.",
+      "avgSalaryLPA": 19.0,
+      "salaryRange": "3.4 - 25.0 LPA",
+      "openings": 3411,
+      "topHiring": [
+        "Accenture",
+        "Cognizant",
+        "TCS",
+        "Capgemini",
+        "IBM"
+      ]
+    },
+    "Data Analyst": {
+      "core": [
+        "Sql",
+        "Excel",
+        "Data Analysis",
+        "Tableau",
+        "Analytics",
+        "Power Bi"
+      ],
+      "recommended": [
+        "Python",
+        "Sas",
+        "Data Mining",
+        "Statistics",
+        "Business Analysis"
+      ],
+      "description": "Query operational databases, build executive dashboards, and translate raw data into actionable business KPI reports.",
+      "avgSalaryLPA": 5.7,
+      "salaryRange": "1.4 - 9.7 LPA",
+      "openings": 18095,
+      "topHiring": [
+        "TCS",
+        "Accenture",
+        "Genpact",
+        "Cognizant",
+        "Wipro"
+      ]
+    },
+    "Senior Data Analyst": {
+      "core": [
+        "Sql",
+        "Data Analysis",
+        "Tableau",
+        "Python",
+        "Sas",
+        "Data Analytics"
+      ],
+      "recommended": [
+        "Power Bi",
+        "Statistics",
+        "Machine Learning",
+        "Big Data",
+        "Business Analysis"
+      ],
+      "description": "Direct BI analytics reporting, synthesize cross-functional business metrics, and recommend revenue optimization strategies.",
+      "avgSalaryLPA": 9.6,
+      "salaryRange": "1.9 - 13.5 LPA",
+      "openings": 3825,
+      "topHiring": [
+        "TCS",
+        "Accenture",
+        "Deloitte",
+        "Cognizant",
+        "IBM"
+      ]
+    },
+    "Business Analyst": {
+      "core": [
+        "Business Analysis",
+        "Sql",
+        "Analytics",
+        "Excel",
+        "Sas",
+        "Project Management"
+      ],
+      "recommended": [
+        "Tableau",
+        "Finance",
+        "Data Analysis",
+        "Python",
+        "Agile"
+      ],
+      "description": "Bridge the gap between business stakeholders and technical teams with requirements modeling and quantitative analytics.",
+      "avgSalaryLPA": 8.9,
+      "salaryRange": "1.7 - 14.3 LPA",
+      "openings": 32843,
+      "topHiring": [
+        "TCS",
+        "Accenture",
+        "Genpact",
+        "Cognizant",
+        "Wipro"
+      ]
+    },
+    "Senior Business Analyst": {
+      "core": [
+        "Business Analysis",
+        "Analytics",
+        "Sql",
+        "Sas",
+        "Finance",
+        "Executive Storytelling"
+      ],
+      "recommended": [
+        "Tableau",
+        "Project Management",
+        "Data Analysis",
+        "Strategy",
+        "Python"
+      ],
+      "description": "Drive digital transformation programs, evaluate commercial feasibility, and architect enterprise analytics solutions.",
+      "avgSalaryLPA": 13.2,
+      "salaryRange": "3.0 - 19.0 LPA",
+      "openings": 14115,
+      "topHiring": [
+        "TCS",
+        "Accenture",
+        "Deloitte",
+        "Cognizant",
+        "IBM"
+      ]
+    },
+    "Machine Learning Engineer": {
+      "core": [
+        "Machine Learning",
+        "Python",
+        "Deep Learning",
+        "Sql",
+        "Data Science",
+        "Nlp"
+      ],
+      "recommended": [
+        "Java",
+        "C++",
+        "Cloud Platforms",
+        "Big Data",
+        "Spark"
+      ],
+      "description": "Productionize AI/ML models at scale, implement low-latency inferencing, and maintain automated retraining loops.",
+      "avgSalaryLPA": 9.9,
+      "salaryRange": "3.6 - 14.5 LPA",
+      "openings": 964,
+      "topHiring": [
+        "TCS",
+        "Accenture",
+        "IBM",
+        "Cognizant",
+        "Amazon"
+      ]
+    },
+    "Data Architect": {
+      "core": [
+        "Big Data",
+        "Hadoop",
+        "Spark",
+        "Sql",
+        "Data Modeling",
+        "Cloud Platforms"
+      ],
+      "recommended": [
+        "Java",
+        "Hive",
+        "Nosql",
+        "Python",
+        "Enterprise Governance"
+      ],
+      "description": "Design modern data lakehouse architectures, define enterprise data governance, and steer multi-cloud migrations.",
+      "avgSalaryLPA": 25.1,
+      "salaryRange": "11.2 - 34.0 LPA",
+      "openings": 528,
+      "topHiring": [
+        "TCS",
+        "Cognizant",
+        "Accenture",
+        "IBM",
+        "Capgemini"
+      ]
+    }
+  },
+  "topCompanies": [
+    {
+      "name": "TCS",
+      "openings": 9064,
+      "rolesCount": 10,
+      "avgSalary": 9.5,
+      "minSalary": 2.4,
+      "maxSalary": 30.0,
+      "roles": [
+        "Data Scientist",
+        "Business Analyst",
+        "Data Analyst",
+        "Data Engineer",
+        "Senior Data Scientist",
+        "Senior Business Analyst",
+        "Senior Data Analyst",
+        "Senior Data Engineer",
+        "Machine Learning Engineer",
+        "Data Architect"
+      ]
+    },
+    {
+      "name": "Accenture",
+      "openings": 5425,
+      "rolesCount": 10,
+      "avgSalary": 12.2,
+      "minSalary": 2.3,
+      "maxSalary": 33.0,
+      "roles": [
+        "Data Scientist",
+        "Business Analyst",
+        "Data Analyst",
+        "Data Engineer",
+        "Senior Data Scientist",
+        "Senior Business Analyst",
+        "Senior Data Analyst",
+        "Senior Data Engineer",
+        "Machine Learning Engineer",
+        "Data Architect"
+      ]
+    },
+    {
+      "name": "Cognizant",
+      "openings": 3813,
+      "rolesCount": 10,
+      "avgSalary": 11.2,
+      "minSalary": 2.9,
+      "maxSalary": 25.5,
+      "roles": [
+        "Data Scientist",
+        "Business Analyst",
+        "Data Analyst",
+        "Data Engineer",
+        "Senior Data Scientist",
+        "Senior Business Analyst",
+        "Senior Data Analyst",
+        "Senior Data Engineer",
+        "Machine Learning Engineer",
+        "Data Architect"
+      ]
+    },
+    {
+      "name": "Wipro",
+      "openings": 2566,
+      "rolesCount": 10,
+      "avgSalary": 10.5,
+      "minSalary": 2.2,
+      "maxSalary": 30.0,
+      "roles": [
+        "Data Scientist",
+        "Business Analyst",
+        "Data Analyst",
+        "Data Engineer",
+        "Senior Data Scientist",
+        "Senior Business Analyst",
+        "Senior Data Analyst",
+        "Senior Data Engineer",
+        "Machine Learning Engineer",
+        "Data Architect"
+      ]
+    },
+    {
+      "name": "IBM",
+      "openings": 2480,
+      "rolesCount": 10,
+      "avgSalary": 13.3,
+      "minSalary": 4.0,
+      "maxSalary": 36.0,
+      "roles": [
+        "Data Scientist",
+        "Business Analyst",
+        "Data Analyst",
+        "Data Engineer",
+        "Senior Data Scientist",
+        "Senior Business Analyst",
+        "Senior Data Analyst",
+        "Senior Data Engineer",
+        "Machine Learning Engineer",
+        "Data Architect"
+      ]
+    },
+    {
+      "name": "Genpact",
+      "openings": 2147,
+      "rolesCount": 8,
+      "avgSalary": 11.8,
+      "minSalary": 2.5,
+      "maxSalary": 37.0,
+      "roles": [
+        "Data Scientist",
+        "Business Analyst",
+        "Data Analyst",
+        "Data Engineer",
+        "Senior Data Scientist",
+        "Senior Business Analyst",
+        "Senior Data Analyst",
+        "Data Architect"
+      ]
+    },
+    {
+      "name": "Capgemini",
+      "openings": 1994,
+      "rolesCount": 10,
+      "avgSalary": 10.8,
+      "minSalary": 3.0,
+      "maxSalary": 32.0,
+      "roles": [
+        "Data Scientist",
+        "Business Analyst",
+        "Data Analyst",
+        "Data Engineer",
+        "Senior Data Scientist",
+        "Senior Business Analyst",
+        "Senior Data Analyst",
+        "Senior Data Engineer",
+        "Machine Learning Engineer",
+        "Data Architect"
+      ]
+    },
+    {
+      "name": "L&T Infotech",
+      "openings": 1873,
+      "rolesCount": 9,
+      "avgSalary": 12.6,
+      "minSalary": 3.8,
+      "maxSalary": 33.5,
+      "roles": [
+        "Data Scientist",
+        "Business Analyst",
+        "Data Analyst",
+        "Data Engineer",
+        "Senior Data Scientist",
+        "Senior Business Analyst",
+        "Senior Data Analyst",
+        "Senior Data Engineer",
+        "Data Architect"
+      ]
+    },
+    {
+      "name": "Tech Mahindra",
+      "openings": 1830,
+      "rolesCount": 10,
+      "avgSalary": 9.9,
+      "minSalary": 2.2,
+      "maxSalary": 27.0,
+      "roles": [
+        "Data Scientist",
+        "Business Analyst",
+        "Data Analyst",
+        "Data Engineer",
+        "Senior Data Scientist",
+        "Senior Business Analyst",
+        "Senior Data Analyst",
+        "Senior Data Engineer",
+        "Machine Learning Engineer",
+        "Data Architect"
+      ]
+    },
+    {
+      "name": "HCL Technologies",
+      "openings": 1783,
+      "rolesCount": 10,
+      "avgSalary": 11.7,
+      "minSalary": 2.3,
+      "maxSalary": 31.0,
+      "roles": [
+        "Data Scientist",
+        "Business Analyst",
+        "Data Analyst",
+        "Data Engineer",
+        "Senior Data Scientist",
+        "Senior Business Analyst",
+        "Senior Data Analyst",
+        "Senior Data Engineer",
+        "Machine Learning Engineer",
+        "Data Architect"
+      ]
+    },
+    {
+      "name": "Deloitte",
+      "openings": 1714,
+      "rolesCount": 10,
+      "avgSalary": 14.2,
+      "minSalary": 4.3,
+      "maxSalary": 35.0,
+      "roles": [
+        "Data Scientist",
+        "Business Analyst",
+        "Data Analyst",
+        "Data Engineer",
+        "Senior Data Scientist",
+        "Senior Business Analyst",
+        "Senior Data Analyst",
+        "Senior Data Engineer",
+        "Machine Learning Engineer",
+        "Data Architect"
+      ]
+    },
+    {
+      "name": "Evalueserve",
+      "openings": 1698,
+      "rolesCount": 3,
+      "avgSalary": 9.6,
+      "minSalary": 4.7,
+      "maxSalary": 17.4,
+      "roles": [
+        "Business Analyst",
+        "Senior Business Analyst",
+        "Senior Data Engineer"
+      ]
+    },
+    {
+      "name": "Infosys",
+      "openings": 1686,
+      "rolesCount": 10,
+      "avgSalary": 10.6,
+      "minSalary": 3.4,
+      "maxSalary": 32.0,
+      "roles": [
+        "Data Scientist",
+        "Business Analyst",
+        "Data Analyst",
+        "Data Engineer",
+        "Senior Data Scientist",
+        "Senior Business Analyst",
+        "Senior Data Analyst",
+        "Senior Data Engineer",
+        "Machine Learning Engineer",
+        "Data Architect"
+      ]
+    },
+    {
+      "name": "Amazon",
+      "openings": 1279,
+      "rolesCount": 9,
+      "avgSalary": 20.1,
+      "minSalary": 2.5,
+      "maxSalary": 75.0,
+      "roles": [
+        "Data Scientist",
+        "Business Analyst",
+        "Data Analyst",
+        "Data Engineer",
+        "Senior Data Scientist",
+        "Senior Business Analyst",
+        "Senior Data Analyst",
+        "Senior Data Engineer",
+        "Machine Learning Engineer"
+      ]
+    },
+    {
+      "name": "DXC Technology",
+      "openings": 1076,
+      "rolesCount": 10,
+      "avgSalary": 11.5,
+      "minSalary": 3.7,
+      "maxSalary": 25.0,
+      "roles": [
+        "Data Scientist",
+        "Business Analyst",
+        "Data Analyst",
+        "Data Engineer",
+        "Senior Data Scientist",
+        "Senior Business Analyst",
+        "Senior Data Analyst",
+        "Senior Data Engineer",
+        "Machine Learning Engineer",
+        "Data Architect"
+      ]
+    },
+    {
+      "name": "EXL Service",
+      "openings": 996,
+      "rolesCount": 8,
+      "avgSalary": 11.3,
+      "minSalary": 2.2,
+      "maxSalary": 30.0,
+      "roles": [
+        "Data Scientist",
+        "Business Analyst",
+        "Data Analyst",
+        "Data Engineer",
+        "Senior Data Scientist",
+        "Senior Business Analyst",
+        "Senior Data Analyst",
+        "Senior Data Engineer"
+      ]
+    },
+    {
+      "name": "Ernst & Young",
+      "openings": 896,
+      "rolesCount": 9,
+      "avgSalary": 14.1,
+      "minSalary": 3.4,
+      "maxSalary": 30.0,
+      "roles": [
+        "Data Scientist",
+        "Business Analyst",
+        "Data Analyst",
+        "Data Engineer",
+        "Senior Data Scientist",
+        "Senior Business Analyst",
+        "Senior Data Analyst",
+        "Senior Data Engineer",
+        "Data Architect"
+      ]
+    },
+    {
+      "name": "HSBC",
+      "openings": 795,
+      "rolesCount": 8,
+      "avgSalary": 14.2,
+      "minSalary": 3.4,
+      "maxSalary": 28.0,
+      "roles": [
+        "Data Scientist",
+        "Business Analyst",
+        "Data Analyst",
+        "Data Engineer",
+        "Senior Data Scientist",
+        "Senior Business Analyst",
+        "Senior Data Analyst",
+        "Senior Data Engineer"
+      ]
+    },
+    {
+      "name": "Quantiphi Analytics Solutions",
+      "openings": 785,
+      "rolesCount": 6,
+      "avgSalary": 11.7,
+      "minSalary": 6.5,
+      "maxSalary": 22.5,
+      "roles": [
+        "Data Scientist",
+        "Business Analyst",
+        "Data Engineer",
+        "Senior Business Analyst",
+        "Senior Data Engineer",
+        "Machine Learning Engineer"
+      ]
+    },
+    {
+      "name": "American Express",
+      "openings": 781,
+      "rolesCount": 7,
+      "avgSalary": 15.9,
+      "minSalary": 3.0,
+      "maxSalary": 40.0,
+      "roles": [
+        "Data Scientist",
+        "Business Analyst",
+        "Data Analyst",
+        "Senior Data Scientist",
+        "Senior Business Analyst",
+        "Senior Data Analyst",
+        "Senior Data Engineer"
+      ]
+    }
+  ],
+  "locationsSummary": [
+    {
+      "city": "Bengaluru",
+      "count": 3753,
+      "percentage": 23.7
+    },
+    {
+      "city": "Mumbai",
+      "count": 2394,
+      "percentage": 15.1
+    },
+    {
+      "city": "Gurgaon",
+      "count": 1578,
+      "percentage": 10.0
+    },
+    {
+      "city": "Delhi NCR",
+      "count": 1282,
+      "percentage": 8.1
+    },
+    {
+      "city": "Pune",
+      "count": 998,
+      "percentage": 6.3
+    },
+    {
+      "city": "Hyderabad",
+      "count": 931,
+      "percentage": 5.9
+    },
+    {
+      "city": "Chennai",
+      "count": 891,
+      "percentage": 5.6
+    },
+    {
+      "city": "Noida",
+      "count": 423,
+      "percentage": 2.7
+    },
+    {
+      "city": "Delhi",
+      "count": 261,
+      "percentage": 1.6
+    },
+    {
+      "city": "Ahmedabad",
+      "count": 179,
+      "percentage": 1.1
+    }
+  ],
+  "salaryTiers": [
+    {
+      "band": "0 - 3 LPA",
+      "raw": "0to3",
+      "count": 2592,
+      "percentage": 16.4
+    },
+    {
+      "band": "3 - 6 LPA",
+      "raw": "3to6",
+      "count": 2239,
+      "percentage": 14.1
+    },
+    {
+      "band": "6 - 10 LPA",
+      "raw": "6to10",
+      "count": 2876,
+      "percentage": 18.2
+    },
+    {
+      "band": "10 - 15 LPA",
+      "raw": "10to15",
+      "count": 3608,
+      "percentage": 22.8
+    },
+    {
+      "band": "15 - 25 LPA",
+      "raw": "15to25",
+      "count": 3281,
+      "percentage": 20.7
+    },
+    {
+      "band": "25 - 50 LPA",
+      "raw": "25to50",
+      "count": 1245,
+      "percentage": 7.9
+    }
+  ],
+  "experienceDistribution": [
+    {
+      "exp": "5-10 yrs",
+      "count": 1010,
+      "pct": 6.4
+    },
+    {
+      "exp": "2-5 yrs",
+      "count": 964,
+      "pct": 6.1
+    },
+    {
+      "exp": "3-8 yrs",
+      "count": 750,
+      "pct": 4.7
+    },
+    {
+      "exp": "2-7 yrs",
+      "count": 665,
+      "pct": 4.2
+    },
+    {
+      "exp": "3-5 yrs",
+      "count": 545,
+      "pct": 3.4
+    },
+    {
+      "exp": "4-9 yrs",
+      "count": 527,
+      "pct": 3.3
+    },
+    {
+      "exp": "3-6 yrs",
+      "count": 523,
+      "pct": 3.3
+    },
+    {
+      "exp": "7-12 yrs",
+      "count": 485,
+      "pct": 3.1
+    }
+  ],
+  "topSkills": [
+    {
+      "name": "Sql",
+      "count": 917,
+      "frequencyPct": 5.8,
+      "category": "Database & Querying"
+    },
+    {
+      "name": "Analytics",
+      "count": 904,
+      "frequencyPct": 5.7,
+      "category": "Analytics Foundations"
+    },
+    {
+      "name": "Python",
+      "count": 840,
+      "frequencyPct": 5.3,
+      "category": "Programming & Scripting"
+    },
+    {
+      "name": "Finance",
+      "count": 756,
+      "frequencyPct": 4.8,
+      "category": "Business & Domain"
+    },
+    {
+      "name": "Java",
+      "count": 728,
+      "frequencyPct": 4.6,
+      "category": "Software Engineering"
+    },
+    {
+      "name": "Sas",
+      "count": 637,
+      "frequencyPct": 4.0,
+      "category": "Enterprise Analytics & SAS"
+    },
+    {
+      "name": "Business Analysis",
+      "count": 633,
+      "frequencyPct": 4.0,
+      "category": "Business & Domain"
+    },
+    {
+      "name": "Machine Learning",
+      "count": 629,
+      "frequencyPct": 4.0,
+      "category": "AI & Machine Learning"
+    },
+    {
+      "name": "Data Analysis",
+      "count": 618,
+      "frequencyPct": 3.9,
+      "category": "Analytics Foundations"
+    },
+    {
+      "name": "Project Management",
+      "count": 505,
+      "frequencyPct": 3.2,
+      "category": "Technical Analytics"
+    },
+    {
+      "name": "Data Analytics",
+      "count": 412,
+      "frequencyPct": 2.6,
+      "category": "Technical Analytics"
+    },
+    {
+      "name": "Excel",
+      "count": 393,
+      "frequencyPct": 2.5,
+      "category": "Analytics Foundations"
+    },
+    {
+      "name": "Hadoop",
+      "count": 300,
+      "frequencyPct": 1.9,
+      "category": "Big Data & Cloud"
+    },
+    {
+      "name": "Spark",
+      "count": 284,
+      "frequencyPct": 1.8,
+      "category": "Big Data & Cloud"
+    },
+    {
+      "name": "Business Process",
+      "count": 280,
+      "frequencyPct": 1.8,
+      "category": "Technical Analytics"
+    },
+    {
+      "name": "Data Science",
+      "count": 271,
+      "frequencyPct": 1.7,
+      "category": "AI & Machine Learning"
+    },
+    {
+      "name": "Big Data",
+      "count": 263,
+      "frequencyPct": 1.7,
+      "category": "Big Data & Cloud"
+    },
+    {
+      "name": "Market Research",
+      "count": 234,
+      "frequencyPct": 1.5,
+      "category": "Technical Analytics"
+    },
+    {
+      "name": "Css",
+      "count": 232,
+      "frequencyPct": 1.5,
+      "category": "Technical Analytics"
+    },
+    {
+      "name": "Data Mining",
+      "count": 225,
+      "frequencyPct": 1.4,
+      "category": "AI & Machine Learning"
+    },
+    {
+      "name": "Google Analytics",
+      "count": 224,
+      "frequencyPct": 1.4,
+      "category": "Technical Analytics"
+    },
+    {
+      "name": "Budgeting",
+      "count": 220,
+      "frequencyPct": 1.4,
+      "category": "Technical Analytics"
+    },
+    {
+      "name": "Operations",
+      "count": 220,
+      "frequencyPct": 1.4,
+      "category": "Technical Analytics"
+    },
+    {
+      "name": "Sem",
+      "count": 218,
+      "frequencyPct": 1.4,
+      "category": "Technical Analytics"
+    },
+    {
+      "name": "Mysql",
+      "count": 207,
+      "frequencyPct": 1.3,
+      "category": "Technical Analytics"
+    }
+  ],
+  "sampleJobs": [
+    {
+      "id": 12709,
+      "designation": "Manager - Model Validation - Cash Equities - Python - Execution",
+      "experience": "3-8 yrs",
+      "salary": "15 - 25 LPA",
+      "location": "Bengaluru",
+      "skills": [
+        "Model Validation",
+        "Monthly Reports",
+        "Cash Equities"
+      ],
+      "description": "- 1-3 years- experience working with financial data or economic data;Knowledge & Experience / ......"
+    },
+    {
+      "id": 170,
+      "designation": "HR Recruiter - Internal HR",
+      "experience": "1-3 yrs",
+      "salary": "3 - 6 LPA",
+      "location": "Ahmedabad",
+      "skills": [
+        "Recruitment",
+        "Hr",
+        "Compensation",
+        "Interviewing",
+        "Placement"
+      ],
+      "description": "Should be able to work in a fast paced ......"
+    },
+    {
+      "id": 2100,
+      "designation": "Quality Analyst - Pharmacovigilance",
+      "experience": "3-4 yrs",
+      "salary": "6 - 10 LPA",
+      "location": "Pune",
+      "skills": [
+        "Qms",
+        "Compliance",
+        "Capa",
+        "New Projects",
+        "Quality Analysis",
+        "Rca"
+      ],
+      "description": "Develop and implement processes to conduct root-cause analysis to investigate deviations and plan CAPAs ......"
+    },
+    {
+      "id": 4949,
+      "designation": "Senior SAP Technical Consultant - Successfactors/erp Modules",
+      "experience": "4-9 yrs",
+      "salary": "15 - 25 LPA",
+      "location": "Gurgaon, Gurugram",
+      "skills": [
+        "Sap Technical Consultant",
+        "Successfactors",
+        "Erp",
+        "Sap",
+        "Hr",
+        "Sap Erp"
+      ],
+      "description": "- 4 -8 years experience in working with HR and Talent Management systems, HR Cloud Software Solution ......"
+    },
+    {
+      "id": 5772,
+      "designation": "Financial Advisor",
+      "experience": "0-4 yrs",
+      "salary": "0 - 3 LPA",
+      "location": "Indore",
+      "skills": [
+        "Finance",
+        "Investment Products",
+        "Advisor",
+        "Adviser",
+        "Business Analyst..."
+      ],
+      "description": "nan..."
+    },
+    {
+      "id": 8498,
+      "designation": "Senior BI Analyst - Ssis/ssas",
+      "experience": "4-9 yrs",
+      "salary": "15 - 25 LPA",
+      "location": "Bengaluru",
+      "skills": [
+        "Ssis",
+        "Mysql",
+        "Php",
+        "Olap",
+        "Sql",
+        "Project Management"
+      ],
+      "description": "- At least 5+ years of progressive development experience in an enterprise data warehouse environment ......"
+    },
+    {
+      "id": 9580,
+      "designation": "Project Manager Analytics",
+      "experience": "7-10 yrs",
+      "salary": "15 - 25 LPA",
+      "location": "Pune",
+      "skills": [
+        "Project Management",
+        "Sql",
+        "Us Healthcare",
+        "Sas"
+      ],
+      "description": "Our 100,000+ staff deliver technology-infused, omni-channel customer experience management, marketing ......"
+    },
+    {
+      "id": 11753,
+      "designation": "Software Trainees",
+      "experience": "0-1 yrs",
+      "salary": "0 - 3 LPA",
+      "location": "Chennai(Navalur)",
+      "skills": [
+        "It Support",
+        "Development",
+        "Testing",
+        "Fresher"
+      ],
+      "description": "We are looking for Freshers as Trainees in Development, IT support and Testing. Interested candidates ......"
+    },
+    {
+      "id": 89,
+      "designation": "Job Opportunity Edp/dtp Executive for Leading Education Industry",
+      "experience": "1-5 yrs",
+      "salary": "0 - 3 LPA",
+      "location": "Bengaluru",
+      "skills": [
+        "Photoshop",
+        "Corel Draw",
+        "Pagemaker",
+        "Advanced Excel",
+        "Ms Office Word",
+        "Vlookup..."
+      ],
+      "description": "Analyzing data and make reports as per management requirement;Analyzing data and make reports as per ......"
+    },
+    {
+      "id": 10136,
+      "designation": "Manager FP&A",
+      "experience": "4-9 yrs",
+      "salary": "10 - 15 LPA",
+      "location": "Gurgaon",
+      "skills": [
+        "Corporate Finance",
+        "Budgeting",
+        "Auditing",
+        "Forecasting",
+        "Financial Reporting..."
+      ],
+      "description": "Supporting management team in building contract wise budgets, capex budget, conducting variance analysis ......"
+    },
+    {
+      "id": 4094,
+      "designation": "Microsoft Modern Data Platform",
+      "experience": "2-7 yrs",
+      "salary": "3 - 6 LPA",
+      "location": "Mumbai",
+      "skills": [
+        "Business Intelligence",
+        "Analytics",
+        "Business Process",
+        "Outsourcing..."
+      ],
+      "description": "nan..."
+    },
+    {
+      "id": 2803,
+      "designation": "Cloud Application Developer - Golang/openstack",
+      "experience": "3-8 yrs",
+      "salary": "15 - 25 LPA",
+      "location": "Mumbai",
+      "skills": [
+        "Business Analysis",
+        "Solution Design",
+        "Application Development..."
+      ],
+      "description": "- Should have progressing skills on Business Analysis, Business Knowledge, Software Engineering ......"
+    },
+    {
+      "id": 15038,
+      "designation": "Microsoft SQL Server Reporting Services (srss)",
+      "experience": "3-6 yrs",
+      "salary": "6 - 10 LPA",
+      "location": "Mumbai",
+      "skills": [
+        "Business Intelligence",
+        "Coding",
+        "Business Process",
+        "Outsourcing",
+        "Operations..."
+      ],
+      "description": "Accenture Technology powers our clients businesses with innovative technologies established and emerging ......"
+    },
+    {
+      "id": 5720,
+      "designation": "Brand Manager - Tea House - IIM/ MDI/ ISB/ FMS",
+      "experience": "3-5 yrs",
+      "salary": "6 - 10 LPA",
+      "location": "Bengaluru",
+      "skills": [
+        "Integrated Marketing",
+        "Brand Management",
+        "Brand Communication..."
+      ],
+      "description": "- Prior experience in conducting customer research studies is an added advantage;- We are looking for a ......"
+    },
+    {
+      "id": 13169,
+      "designation": "CN - Strategy MC V&IS - CVL - 11",
+      "experience": "0-3 yrs",
+      "salary": "0 - 3 LPA",
+      "location": "Gurgaon",
+      "skills": [
+        "Healthcare",
+        "Industrial Products",
+        "Industry Research",
+        "Financial Analysis..."
+      ],
+      "description": "0 to 3 years of progressive industry and/ or consulting experience in one or more of the following ......"
+    },
+    {
+      "id": 8439,
+      "designation": "Associate Vice President - Analytics - SAS - Bank",
+      "experience": "7-12 yrs",
+      "salary": "25 - 50 LPA",
+      "location": "Delhi NCR, Gurgaon",
+      "skills": [
+        "Analytics",
+        "Sas",
+        "Banking",
+        "Insurance",
+        "Analytics Head"
+      ],
+      "description": "- Experience in banking domain with knowledge across customer lifecycle is must;- Candidate should have ......"
+    },
+    {
+      "id": 5517,
+      "designation": "Required ASP .Net Developer",
+      "experience": "5-7 yrs",
+      "salary": "10 - 15 LPA",
+      "location": "Gurgaon",
+      "skills": [
+        "Asp.Net",
+        "Mvc Architecture",
+        "Web Api",
+        "Sql Server",
+        "Net"
+      ],
+      "description": "Design and/or development experience with .NET, C#, ASP.NET, Windows Forms and SQL Server in an n-tier ......"
+    },
+    {
+      "id": 9715,
+      "designation": "Walkin_18th October_associate-fth | Contract Review",
+      "experience": "0-1 yrs",
+      "salary": "3 - 6 LPA",
+      "location": "Gurgaon",
+      "skills": [
+        "Legal Services",
+        "Drafting",
+        "Contract Review",
+        "Law",
+        "Contract Abstraction",
+        "Llb..."
+      ],
+      "description": "nan..."
+    },
+    {
+      "id": 305,
+      "designation": "Business Analyst | IT MNC of Aeronube Technology | Chennai",
+      "experience": "6-10 yrs",
+      "salary": "15 - 25 LPA",
+      "location": "Chennai",
+      "skills": [
+        "Business Analyst",
+        "Wealth Management"
+      ],
+      "description": "Experience: 6 to 10 yrs;Approximately 6 - 8 years of experience in Business Analysis ......"
+    },
+    {
+      "id": 3269,
+      "designation": "Senior Analyst - IT (OIM - Development & Support)",
+      "experience": "5-8 yrs",
+      "salary": "15 - 25 LPA",
+      "location": "Pune",
+      "skills": [
+        "Oim"
+      ],
+      "description": "Support access provisioning and certification processes to ensure regulatory compliance and operational ......"
+    },
+    {
+      "id": 12591,
+      "designation": "Customer Support Quality Analyst",
+      "experience": "1-4 yrs",
+      "salary": "0 - 3 LPA",
+      "location": "Ahmedabad",
+      "skills": [
+        "Call Quality",
+        "Feedback",
+        "Quality Analysis",
+        "Training",
+        "Customer Support..."
+      ],
+      "description": "Collaborate with call quality team members to identify and streamline processes and implement process ......"
+    },
+    {
+      "id": 1035,
+      "designation": "Team Lead - Search Engines Optimization - Internet / Online",
+      "experience": "4-9 yrs",
+      "salary": "10 - 15 LPA",
+      "location": "Delhi NCR",
+      "skills": [
+        "Team Lead",
+        "Search Engines Optimization",
+        "Sem",
+        "Seo",
+        "Web Analytics",
+        "Marketing..."
+      ],
+      "description": "Should be technically proficient & understand tech details right from site architecture to webmaster ......"
+    },
+    {
+      "id": 9250,
+      "designation": "Account Manager",
+      "experience": "6-11 yrs",
+      "salary": "3 - 6 LPA",
+      "location": "Chennai",
+      "skills": [
+        "Provider",
+        "Account Management",
+        "Client Servicing",
+        "Us Healthcare..."
+      ],
+      "description": "Should have done client servicing and handled clients/Doctors individually;Should have at least 2 to 3 ......"
+    },
+    {
+      "id": 10036,
+      "designation": "Opening for Manager-retail Loans",
+      "experience": "6-9 yrs",
+      "salary": "15 - 25 LPA",
+      "location": "Bengaluru, Kolkata, Ahmedabad",
+      "skills": [
+        "Performance Appraisal",
+        "Hr",
+        "Training",
+        "Self Service",
+        "Branch Banking..."
+      ],
+      "description": "nan..."
+    },
+    {
+      "id": 709,
+      "designation": "Business Research Analyst",
+      "experience": "2-7 yrs",
+      "salary": "0 - 3 LPA",
+      "location": "Gurgaon",
+      "skills": [
+        "Primary Research",
+        "Market Sizing",
+        "Research Analysis",
+        "Data Analysis..."
+      ],
+      "description": "Senior researchers with 4+ years of experience in research must have at least 1+ year in managing ......"
+    },
+    {
+      "id": 15351,
+      "designation": "Manager- Business Continuity",
+      "experience": "10-12 yrs",
+      "salary": "15 - 25 LPA",
+      "location": "Bengaluru",
+      "skills": [
+        "Security",
+        "Administration",
+        "Crisis Management",
+        "Business Continuity Planning..."
+      ],
+      "description": "Must be able to deal effectively with ambiguity and have a dedication to deliver results within strict ......"
+    },
+    {
+      "id": 6246,
+      "designation": "Corrosion Inspectors (AG - 573)",
+      "experience": "5-10 yrs",
+      "salary": "10 - 15 LPA",
+      "location": "Kuwait",
+      "skills": [
+        "Corrosion Inspector",
+        "Cathodic Protection",
+        "Failure Analysis",
+        "Nace",
+        "Refinery",
+        "..."
+      ],
+      "description": "-Diploma in Chemical / Electrical / Mechanical Engineering with 10 years corrosion experience;-English ......"
+    },
+    {
+      "id": 5383,
+      "designation": "Opening for ''business Process Supervisor Compliance'' with Pharma MNC",
+      "experience": "8-13 yrs",
+      "salary": "15 - 25 LPA",
+      "location": "Bengaluru",
+      "skills": [
+        "Fcpa Lddr",
+        "Us Healthcare Compliance",
+        "Business Process Supervisor Compliance..."
+      ],
+      "description": "Experience  & ......"
+    },
+    {
+      "id": 7809,
+      "designation": "Avp/senior/avp - Digital Analytics + Retail Analytics",
+      "experience": "10-15 yrs",
+      "salary": "25 - 50 LPA",
+      "location": "Bengaluru",
+      "skills": [
+        "Sas",
+        "Data Science",
+        "Machine Learning",
+        "Digital Analytics",
+        "Python",
+        "Logistic..."
+      ],
+      "description": "- Hands on experience in statistical techniques like logistic regression, clustering, segmentation etc ......"
+    },
+    {
+      "id": 124,
+      "designation": "Sourcing & Development Engineer",
+      "experience": "2-7 yrs",
+      "salary": "10 - 15 LPA",
+      "location": "Hosur",
+      "skills": [
+        "Production Planning",
+        "Cost Reduction",
+        "Capacity Enhancement..."
+      ],
+      "description": "Actions of supplier QCD improvement / Encourage supplier to go for QMS ......"
+    },
+    {
+      "id": 11076,
+      "designation": "Accenture is  Hiring for \"  Secondary Research Analyst",
+      "experience": "3-8 yrs",
+      "salary": "0 - 3 LPA",
+      "location": "Gurgaon(Sector-24 Gurgaon)",
+      "skills": [
+        "Secondary Research",
+        "Research Analysis",
+        "Gartner",
+        "Hoovers",
+        "Bloomberg",
+        "Fosster"
+      ],
+      "description": "nan..."
+    },
+    {
+      "id": 9295,
+      "designation": "Regional Credit Manager - Small Business Banking Loans - NBFC",
+      "experience": "7-12 yrs",
+      "salary": "15 - 25 LPA",
+      "location": "Delhi NCR",
+      "skills": [
+        "Mba Finance",
+        "Accounting",
+        "Banking Products",
+        "Team Management..."
+      ],
+      "description": "Requirement In-depth knowledge of:;- Should have handled SME Loans / Working Capital Loans;- Should have ......"
+    },
+    {
+      "id": 2128,
+      "designation": "Direct Walk in at Teleperformance Mansarovar| sal upto 27K",
+      "experience": "0-5 yrs",
+      "salary": "3 - 6 LPA",
+      "location": "Jaipur",
+      "skills": [
+        "Csr",
+        "Tsr",
+        "Tsa",
+        "Helpdesk",
+        "Jaipur",
+        "Fresher"
+      ],
+      "description": "We are a team of 223,000 passionate people working in 350 sites providing outstanding customer ......"
+    },
+    {
+      "id": 11764,
+      "designation": "Urgent Opportunity for Senior Analyst - Meed Reports",
+      "experience": "5-6 yrs",
+      "salary": "6 - 10 LPA",
+      "location": "Hyderabad",
+      "skills": [
+        "Primary Research",
+        "Industry Reports",
+        "Process Improvement",
+        "Writing Skills"
+      ],
+      "description": "nan..."
+    },
+    {
+      "id": 12874,
+      "designation": "Software Sales Engineer - II",
+      "experience": "10-15 yrs",
+      "salary": "25 - 50 LPA",
+      "location": "Delhi NCR",
+      "skills": [
+        "Software Sales",
+        "Solution Architecting",
+        "Software Solutions..."
+      ],
+      "description": "Degree in Engineering / Computer Science/ MCA   with 10 to 12+ years relevant experience;Good Knowledge ......"
+    }
+  ]
+}

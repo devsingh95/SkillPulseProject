@@ -1,0 +1,2748 @@
+{
+  "meta": {
+    "source": "SAS Institute Official Hackathon Datasets",
+    "totalAnalyticsPostings": 15841,
+    "totalDataScienceVacancies": 93005,
+    "totalEnterprisesTracked": 642,
+    "juniorDataScientistsSampled": 139,
+    "seniorDataScientistsSampled": 161,
+    "jdsModelAccuracy": 87.8,
+    "sdsModelAccuracy": 93.8
+  },
+  "roles": [
+    {
+      "id": "data-scientist",
+      "title": "Data Scientist",
+      "postings": 9051,
+      "companiesCount": 188,
+      "avgSalaryINR": "\u20b913.5 LPA",
+      "salaryRangeINR": "\u20b92.0L \u2013 \u20b974.5L",
+      "salaryUSD": "$16,200 / yr",
+      "avgMinExp": 1.5,
+      "experienceBracket": "1+ years",
+      "topSkills": [
+        "Python",
+        "SQL",
+        "Machine Learning",
+        "R",
+        "SAS",
+        "Deep Learning",
+        "Statistics",
+        "NLP"
+      ],
+      "bonusSkills": [
+        "Data Mining",
+        "Tableau"
+      ],
+      "topCompanies": [
+        {
+          "company": "TCS",
+          "jobs": 841
+        },
+        {
+          "company": "Accenture",
+          "jobs": 501
+        },
+        {
+          "company": "IBM",
+          "jobs": 394
+        },
+        {
+          "company": "Cognizant",
+          "jobs": 318
+        },
+        {
+          "company": "Capgemini",
+          "jobs": 300
+        }
+      ]
+    },
+    {
+      "id": "machine-learning-engineer",
+      "title": "Machine Learning Engineer",
+      "postings": 964,
+      "companiesCount": 59,
+      "avgSalaryINR": "\u20b99.9 LPA",
+      "salaryRangeINR": "\u20b92.0L \u2013 \u20b940.0L",
+      "salaryUSD": "$11,880 / yr",
+      "avgMinExp": 1.4,
+      "experienceBracket": "1+ years",
+      "topSkills": [
+        "Python",
+        "Machine Learning",
+        "Deep Learning",
+        "NLP",
+        "TensorFlow",
+        "PyTorch",
+        "SQL",
+        "Data Pipelines"
+      ],
+      "bonusSkills": [
+        "Computer Vision"
+      ],
+      "topCompanies": [
+        {
+          "company": "TCS",
+          "jobs": 193
+        },
+        {
+          "company": "Quantiphi Analytics Solutions",
+          "jobs": 174
+        },
+        {
+          "company": "Accenture",
+          "jobs": 61
+        },
+        {
+          "company": "Wipro",
+          "jobs": 45
+        },
+        {
+          "company": "Tiger Analytics",
+          "jobs": 37
+        }
+      ]
+    },
+    {
+      "id": "data-engineer",
+      "title": "Data Engineer",
+      "postings": 8044,
+      "companiesCount": 188,
+      "avgSalaryINR": "\u20b911.8 LPA",
+      "salaryRangeINR": "\u20b91.1L \u2013 \u20b993.5L",
+      "salaryUSD": "$14,160 / yr",
+      "avgMinExp": 1.5,
+      "experienceBracket": "1+ years",
+      "topSkills": [
+        "SQL",
+        "Python",
+        "Spark",
+        "Hadoop",
+        "Hive",
+        "Big Data",
+        "ETL",
+        "Scala"
+      ],
+      "bonusSkills": [
+        "Data Pipelines",
+        "AWS"
+      ],
+      "topCompanies": [
+        {
+          "company": "TCS",
+          "jobs": 819
+        },
+        {
+          "company": "IBM",
+          "jobs": 727
+        },
+        {
+          "company": "L&T Infotech",
+          "jobs": 420
+        },
+        {
+          "company": "Accenture",
+          "jobs": 332
+        },
+        {
+          "company": "Cognizant",
+          "jobs": 292
+        }
+      ]
+    },
+    {
+      "id": "data-analyst",
+      "title": "Data Analyst",
+      "postings": 18095,
+      "companiesCount": 187,
+      "avgSalaryINR": "\u20b95.7 LPA",
+      "salaryRangeINR": "\u20b90.2L \u2013 \u20b950.0L",
+      "salaryUSD": "$6,840 / yr",
+      "avgMinExp": 0.8,
+      "experienceBracket": "0+ years",
+      "topSkills": [
+        "SQL",
+        "Excel",
+        "Data Analysis",
+        "Tableau",
+        "Power BI",
+        "Python",
+        "Analytics",
+        "Reporting"
+      ],
+      "bonusSkills": [
+        "R",
+        "SAS"
+      ],
+      "topCompanies": [
+        {
+          "company": "TCS",
+          "jobs": 1600
+        },
+        {
+          "company": "Cognizant",
+          "jobs": 1200
+        },
+        {
+          "company": "Accenture",
+          "jobs": 1100
+        },
+        {
+          "company": "Capgemini",
+          "jobs": 485
+        },
+        {
+          "company": "Wipro",
+          "jobs": 475
+        }
+      ]
+    },
+    {
+      "id": "business-analyst",
+      "title": "Business Analyst",
+      "postings": 32843,
+      "companiesCount": 188,
+      "avgSalaryINR": "\u20b98.9 LPA",
+      "salaryRangeINR": "\u20b91.2L \u2013 \u20b930.0L",
+      "salaryUSD": "$10,680 / yr",
+      "avgMinExp": 1.7,
+      "experienceBracket": "1+ years",
+      "topSkills": [
+        "Business Analysis",
+        "SQL",
+        "Excel",
+        "Requirement Gathering",
+        "Power BI",
+        "Tableau",
+        "Project Management",
+        "Agile"
+      ],
+      "bonusSkills": [
+        "Jira"
+      ],
+      "topCompanies": [
+        {
+          "company": "TCS",
+          "jobs": 4200
+        },
+        {
+          "company": "Accenture",
+          "jobs": 1900
+        },
+        {
+          "company": "Genpact",
+          "jobs": 1700
+        },
+        {
+          "company": "Wipro",
+          "jobs": 1200
+        },
+        {
+          "company": "Cognizant",
+          "jobs": 1100
+        }
+      ]
+    },
+    {
+      "id": "senior-data-scientist",
+      "title": "Senior Data Scientist",
+      "postings": 2129,
+      "companiesCount": 185,
+      "avgSalaryINR": "\u20b922.3 LPA",
+      "salaryRangeINR": "\u20b91.0L \u2013 \u20b9100.0L",
+      "salaryUSD": "$26,760 / yr",
+      "avgMinExp": 4.0,
+      "experienceBracket": "4+ years",
+      "topSkills": [
+        "Python",
+        "Machine Learning",
+        "SAS",
+        "Advanced Statistics",
+        "Deep Learning",
+        "Architecture",
+        "Leadership",
+        "Storytelling"
+      ],
+      "bonusSkills": [
+        "Cloud ML"
+      ],
+      "topCompanies": [
+        {
+          "company": "Accenture",
+          "jobs": 80
+        },
+        {
+          "company": "TCS",
+          "jobs": 79
+        },
+        {
+          "company": "Cognizant",
+          "jobs": 57
+        },
+        {
+          "company": "Fractal Analytics",
+          "jobs": 47
+        },
+        {
+          "company": "Ab Inbev",
+          "jobs": 44
+        }
+      ]
+    },
+    {
+      "id": "senior-data-engineer",
+      "title": "Senior Data Engineer",
+      "postings": 3411,
+      "companiesCount": 183,
+      "avgSalaryINR": "\u20b919.0 LPA",
+      "salaryRangeINR": "\u20b92.5L \u2013 \u20b994.0L",
+      "salaryUSD": "$22,800 / yr",
+      "avgMinExp": 4.6,
+      "experienceBracket": "4+ years",
+      "topSkills": [
+        "Big Data",
+        "Spark",
+        "Kafka",
+        "Hadoop",
+        "Distributed Systems",
+        "SQL",
+        "Data Lake",
+        "Data Architecture"
+      ],
+      "bonusSkills": [
+        "Python"
+      ],
+      "topCompanies": [
+        {
+          "company": "L&T Infotech",
+          "jobs": 729
+        },
+        {
+          "company": "Quantiphi Analytics Solutions",
+          "jobs": 137
+        },
+        {
+          "company": "IBM",
+          "jobs": 112
+        },
+        {
+          "company": "Maersk",
+          "jobs": 110
+        },
+        {
+          "company": "Accenture",
+          "jobs": 83
+        }
+      ]
+    },
+    {
+      "id": "data-architect",
+      "title": "Data Architect",
+      "postings": 528,
+      "companiesCount": 50,
+      "avgSalaryINR": "\u20b925.1 LPA",
+      "salaryRangeINR": "\u20b97.5L \u2013 \u20b9102.0L",
+      "salaryUSD": "$30,120 / yr",
+      "avgMinExp": 10.0,
+      "experienceBracket": "10+ years",
+      "topSkills": [
+        "Data Architecture",
+        "Data Modeling",
+        "Data Governance",
+        "Cloud Data Warehouses",
+        "Snowflake",
+        "Big Data",
+        "SQL",
+        "Enterprise ETL"
+      ],
+      "bonusSkills": [
+        "Communication",
+        "Domain Modeling"
+      ],
+      "topCompanies": [
+        {
+          "company": "Accenture",
+          "jobs": 55
+        },
+        {
+          "company": "TCS",
+          "jobs": 49
+        },
+        {
+          "company": "Fiserv",
+          "jobs": 47
+        },
+        {
+          "company": "IBM",
+          "jobs": 44
+        },
+        {
+          "company": "Cognizant",
+          "jobs": 42
+        }
+      ]
+    }
+  ],
+  "topSkills": [
+    {
+      "name": "SQL",
+      "category": "Core Data",
+      "jobCount": 915,
+      "demandScore": 99,
+      "penetrationPct": 5.8,
+      "status": "critical"
+    },
+    {
+      "name": "Analytics",
+      "category": "Core Data",
+      "jobCount": 904,
+      "demandScore": 99,
+      "penetrationPct": 5.7,
+      "status": "critical"
+    },
+    {
+      "name": "Python",
+      "category": "Core Data",
+      "jobCount": 840,
+      "demandScore": 99,
+      "penetrationPct": 5.3,
+      "status": "critical"
+    },
+    {
+      "name": "Financial Analytics",
+      "category": "Business & BI",
+      "jobCount": 756,
+      "demandScore": 99,
+      "penetrationPct": 4.8,
+      "status": "critical"
+    },
+    {
+      "name": "Java Engineering",
+      "category": "Core Data",
+      "jobCount": 726,
+      "demandScore": 99,
+      "penetrationPct": 4.6,
+      "status": "critical"
+    },
+    {
+      "name": "R Language",
+      "category": "Core Data",
+      "jobCount": 655,
+      "demandScore": 99,
+      "penetrationPct": 4.1,
+      "status": "critical"
+    },
+    {
+      "name": "SAS Analytics Suite",
+      "category": "Core Data",
+      "jobCount": 636,
+      "demandScore": 99,
+      "penetrationPct": 4.0,
+      "status": "critical"
+    },
+    {
+      "name": "Business Analysis",
+      "category": "Business & BI",
+      "jobCount": 633,
+      "demandScore": 99,
+      "penetrationPct": 4.0,
+      "status": "critical"
+    },
+    {
+      "name": "Machine Learning",
+      "category": "AI / ML",
+      "jobCount": 629,
+      "demandScore": 99,
+      "penetrationPct": 4.0,
+      "status": "critical"
+    },
+    {
+      "name": "Data Analysis",
+      "category": "Core Data",
+      "jobCount": 618,
+      "demandScore": 99,
+      "penetrationPct": 3.9,
+      "status": "critical"
+    },
+    {
+      "name": "Advanced Excel",
+      "category": "Core Data",
+      "jobCount": 393,
+      "demandScore": 94,
+      "penetrationPct": 2.5,
+      "status": "critical"
+    },
+    {
+      "name": "Apache Hadoop",
+      "category": "Big Data",
+      "jobCount": 300,
+      "demandScore": 85,
+      "penetrationPct": 1.9,
+      "status": "high-demand"
+    },
+    {
+      "name": "Apache Spark",
+      "category": "Big Data",
+      "jobCount": 284,
+      "demandScore": 83,
+      "penetrationPct": 1.8,
+      "status": "high-demand"
+    },
+    {
+      "name": "Applied Data Science",
+      "category": "AI / ML",
+      "jobCount": 271,
+      "demandScore": 82,
+      "penetrationPct": 1.7,
+      "status": "high-demand"
+    },
+    {
+      "name": "Big Data Architectures",
+      "category": "Big Data",
+      "jobCount": 263,
+      "demandScore": 81,
+      "penetrationPct": 1.7,
+      "status": "high-demand"
+    },
+    {
+      "name": "AWS Cloud Architecture",
+      "category": "Big Data",
+      "jobCount": 210,
+      "demandScore": 76,
+      "penetrationPct": 1.3,
+      "status": "growing"
+    },
+    {
+      "name": "Microsoft Power BI",
+      "category": "Business & BI",
+      "jobCount": 180,
+      "demandScore": 73,
+      "penetrationPct": 1.1,
+      "status": "growing"
+    },
+    {
+      "name": "Deep Learning & Neural Nets",
+      "category": "AI / ML",
+      "jobCount": 128,
+      "demandScore": 68,
+      "penetrationPct": 0.8,
+      "status": "growing"
+    },
+    {
+      "name": "Tableau Visualizations",
+      "category": "Business & BI",
+      "jobCount": 107,
+      "demandScore": 68,
+      "penetrationPct": 0.7,
+      "status": "growing"
+    },
+    {
+      "name": "Natural Language Processing (NLP)",
+      "category": "AI / ML",
+      "jobCount": 107,
+      "demandScore": 68,
+      "penetrationPct": 0.7,
+      "status": "growing"
+    }
+  ],
+  "companies": [
+    {
+      "name": "TCS",
+      "openings": 9064,
+      "rolesHiring": 10,
+      "avgSalary": "\u20b99.5L",
+      "salaryRange": "\u20b92.4L \u2013 \u20b930.0L"
+    },
+    {
+      "name": "Accenture",
+      "openings": 5425,
+      "rolesHiring": 10,
+      "avgSalary": "\u20b912.2L",
+      "salaryRange": "\u20b92.3L \u2013 \u20b933.0L"
+    },
+    {
+      "name": "Cognizant",
+      "openings": 3813,
+      "rolesHiring": 10,
+      "avgSalary": "\u20b911.2L",
+      "salaryRange": "\u20b92.9L \u2013 \u20b925.5L"
+    },
+    {
+      "name": "Wipro",
+      "openings": 2566,
+      "rolesHiring": 10,
+      "avgSalary": "\u20b910.5L",
+      "salaryRange": "\u20b92.2L \u2013 \u20b930.0L"
+    },
+    {
+      "name": "IBM",
+      "openings": 2480,
+      "rolesHiring": 10,
+      "avgSalary": "\u20b913.3L",
+      "salaryRange": "\u20b94.0L \u2013 \u20b936.0L"
+    },
+    {
+      "name": "Genpact",
+      "openings": 2147,
+      "rolesHiring": 8,
+      "avgSalary": "\u20b911.8L",
+      "salaryRange": "\u20b92.5L \u2013 \u20b937.0L"
+    },
+    {
+      "name": "Capgemini",
+      "openings": 1994,
+      "rolesHiring": 10,
+      "avgSalary": "\u20b910.8L",
+      "salaryRange": "\u20b93.0L \u2013 \u20b932.0L"
+    },
+    {
+      "name": "L&T Infotech",
+      "openings": 1873,
+      "rolesHiring": 9,
+      "avgSalary": "\u20b912.6L",
+      "salaryRange": "\u20b93.8L \u2013 \u20b933.5L"
+    },
+    {
+      "name": "Tech Mahindra",
+      "openings": 1830,
+      "rolesHiring": 10,
+      "avgSalary": "\u20b99.9L",
+      "salaryRange": "\u20b92.2L \u2013 \u20b927.0L"
+    },
+    {
+      "name": "HCL Technologies",
+      "openings": 1783,
+      "rolesHiring": 10,
+      "avgSalary": "\u20b911.7L",
+      "salaryRange": "\u20b92.3L \u2013 \u20b931.0L"
+    },
+    {
+      "name": "Deloitte",
+      "openings": 1714,
+      "rolesHiring": 10,
+      "avgSalary": "\u20b914.2L",
+      "salaryRange": "\u20b94.3L \u2013 \u20b935.0L"
+    },
+    {
+      "name": "Evalueserve",
+      "openings": 1698,
+      "rolesHiring": 3,
+      "avgSalary": "\u20b99.6L",
+      "salaryRange": "\u20b94.7L \u2013 \u20b917.4L"
+    },
+    {
+      "name": "Infosys",
+      "openings": 1686,
+      "rolesHiring": 10,
+      "avgSalary": "\u20b910.6L",
+      "salaryRange": "\u20b93.4L \u2013 \u20b932.0L"
+    },
+    {
+      "name": "Amazon",
+      "openings": 1279,
+      "rolesHiring": 9,
+      "avgSalary": "\u20b920.1L",
+      "salaryRange": "\u20b92.5L \u2013 \u20b975.0L"
+    },
+    {
+      "name": "DXC Technology",
+      "openings": 1076,
+      "rolesHiring": 10,
+      "avgSalary": "\u20b911.5L",
+      "salaryRange": "\u20b93.7L \u2013 \u20b925.0L"
+    }
+  ],
+  "locations": [
+    {
+      "city": "Bengaluru",
+      "postings": 3333,
+      "share": 21.0
+    },
+    {
+      "city": "Mumbai",
+      "postings": 1992,
+      "share": 12.6
+    },
+    {
+      "city": "Gurgaon",
+      "postings": 1313,
+      "share": 8.3
+    },
+    {
+      "city": "Pune",
+      "postings": 945,
+      "share": 6.0
+    },
+    {
+      "city": "Hyderabad",
+      "postings": 878,
+      "share": 5.5
+    },
+    {
+      "city": "Chennai",
+      "postings": 786,
+      "share": 5.0
+    },
+    {
+      "city": "Delhi NCR",
+      "postings": 593,
+      "share": 3.7
+    },
+    {
+      "city": "Noida",
+      "postings": 403,
+      "share": 2.5
+    }
+  ],
+  "salaryBrackets": [
+    {
+      "bracket": "10 \u2013 15 LPA",
+      "postings": 3608,
+      "pct": 22.8
+    },
+    {
+      "bracket": "15 \u2013 25 LPA",
+      "postings": 3281,
+      "pct": 20.7
+    },
+    {
+      "bracket": "6 \u2013 10 LPA",
+      "postings": 2876,
+      "pct": 18.2
+    },
+    {
+      "bracket": "0 \u2013 3 LPA",
+      "postings": 2592,
+      "pct": 16.4
+    },
+    {
+      "bracket": "3 \u2013 6 LPA",
+      "postings": 2239,
+      "pct": 14.1
+    },
+    {
+      "bracket": "25 \u2013 50 LPA",
+      "postings": 1245,
+      "pct": 7.9
+    }
+  ],
+  "jdsModel": {
+    "accuracy": 87.8,
+    "intercept": -21.7739,
+    "weights": {
+      "big_data_skills": 0.7533,
+      "maths-stats_skills": 1.4513,
+      "coding_skills": 0.5896,
+      "ai_and_ml_skills": 1.0425,
+      "dashboard_and_storytelling_skills": 1.1861
+    },
+    "traits": [
+      {
+        "key": "big_data_skills",
+        "label": "Big Data Skills (Hadoop, Spark, Distributed Data)",
+        "highMean": 3.94,
+        "lowMean": 3.75,
+        "overallMean": 3.85,
+        "coef": 0.7533,
+        "description": "Distributed storage, MapReduce, PySpark pipelines & query execution."
+      },
+      {
+        "key": "maths-stats_skills",
+        "label": "Maths & Statistics (Hypothesis Testing, Prob, Calculus)",
+        "highMean": 4.71,
+        "lowMean": 3.83,
+        "overallMean": 4.29,
+        "coef": 1.4513,
+        "description": "Statistical rigor, distributions, A/B testing & mathematical validation."
+      },
+      {
+        "key": "coding_skills",
+        "label": "Coding Skills (SAS, Python, SQL Engineering)",
+        "highMean": 4.64,
+        "lowMean": 3.85,
+        "overallMean": 4.27,
+        "coef": 0.5896,
+        "description": "Clean algorithmic coding, SAS macros/Base SAS, SQL optimization, Python OOP."
+      },
+      {
+        "key": "ai_and_ml_skills",
+        "label": "AI & Machine Learning (Model Architecture, Scikit, Deep Learning)",
+        "highMean": 4.82,
+        "lowMean": 4.28,
+        "overallMean": 4.57,
+        "coef": 1.0425,
+        "description": "Supervised/unsupervised algorithms, evaluation metrics, feature engineering."
+      },
+      {
+        "key": "dashboard_and_storytelling_skills",
+        "label": "Dashboard & Storytelling (Visual Analytics, Executive Reporting)",
+        "highMean": 4.85,
+        "lowMean": 3.81,
+        "overallMean": 4.36,
+        "coef": 1.1861,
+        "description": "Transforming raw model outputs into business narratives, executive dashboards."
+      }
+    ]
+  },
+  "sdsModel": {
+    "accuracy": 93.8,
+    "intercept": -36.1046,
+    "weights": {
+      "neuroticism": 0.1207,
+      "extraversion": 0.1123,
+      "openness_to_experience": 0.2672,
+      "agreeableness": 0.0794,
+      "conscientiousness": 0.2473
+    },
+    "traits": [
+      {
+        "key": "conscientiousness",
+        "label": "Conscientiousness (Goal Discipline & Execution)",
+        "highMean": 53.7,
+        "lowMean": 35.7,
+        "coef": 0.2473,
+        "insight": "Highest differentiator (+17.9 pts). Senior data scientists succeed through disciplined execution, architectural consistency, and rigor."
+      },
+      {
+        "key": "openness_to_experience",
+        "label": "Openness to Experience (Curiosity & Innovation)",
+        "highMean": 48.5,
+        "lowMean": 33.3,
+        "coef": 0.2672,
+        "insight": "Second highest (+15.2 pts). Senior roles demand adopting newer ML architectures and creative hypothesis generation."
+      },
+      {
+        "key": "extraversion",
+        "label": "Extraversion (Stakeholder Engagement & Social Influence)",
+        "highMean": 48.9,
+        "lowMean": 36.9,
+        "coef": 0.1123,
+        "insight": "Differentiator (+12.0 pts). Customer-facing senior scientists must articulate technical value to executive buyers."
+      },
+      {
+        "key": "agreeableness",
+        "label": "Agreeableness (Cross-functional Diplomacy & Empathy)",
+        "highMean": 47.7,
+        "lowMean": 41.1,
+        "coef": 0.0794,
+        "insight": "Positive impact (+6.6 pts). Enables cross-functional harmony across product, engineering, and data teams."
+      },
+      {
+        "key": "neuroticism",
+        "label": "Emotional Stability (Resilience Under Pressure)",
+        "highMean": 36.1,
+        "lowMean": 36.3,
+        "coef": 0.1207,
+        "insight": "Balanced baseline (~36 pts). Resilient technical leaders stay composed when production pipelines face unexpected turbulence."
+      }
+    ]
+  },
+  "realJobPostings": [
+    {
+      "id": 1,
+      "title": "Oracle EBS Technical Consultant",
+      "experience": "6-10 yrs",
+      "location": "Bengaluru, Chennai",
+      "salary": "\u20b96 \u2013 10 LPA",
+      "type": "Full Time",
+      "skills": [
+        "Oracle Sql",
+        "Plsql",
+        "Pl",
+        "Oracle Forms",
+        "Oracle Reports",
+        "Oracle Workflow..."
+      ],
+      "description": "Must be knowledgeable and experienced in relational database concepts,Oracle Apps database architecture ......"
+    },
+    {
+      "id": 2,
+      "title": "Staff Software Engineer - Object Oriented Analysis & Design",
+      "experience": "8-12 yrs",
+      "location": "Bengaluru",
+      "salary": "\u20b910 \u2013 15 LPA",
+      "type": "Full Time",
+      "skills": [
+        "Javascript",
+        "Html",
+        "Jquery",
+        "Web Development",
+        "Play Framework",
+        "Mvc",
+        "Rest..."
+      ],
+      "description": "- Experience in building scalable and highly available distributed systems;- Hands-on experience in web ......"
+    },
+    {
+      "id": 4,
+      "title": "Software Development Engineering, Analyst",
+      "experience": "3-6 yrs",
+      "location": "Pune",
+      "salary": "\u20b96 \u2013 10 LPA",
+      "type": "Full Time",
+      "skills": [
+        "Qtp",
+        "Flex",
+        "Lan",
+        "Application Support",
+        "Performance Testing",
+        "Eclipse..."
+      ],
+      "description": "     Our software engineers at Fiserv bring an open and creative mindset to a global team developing ......"
+    },
+    {
+      "id": 5,
+      "title": "NVH Engineer - Nastran/ Ls-dyna",
+      "experience": "5-10 yrs",
+      "location": "Mumbai, Bengaluru, Hyderabad, Pune, Delhi",
+      "salary": "\u20b910 \u2013 15 LPA",
+      "type": "Full Time",
+      "skills": [
+        "Hypermesh",
+        "Ls - Dyna",
+        "Nastran",
+        "Abaqus",
+        "Fatigue",
+        "Durability",
+        "Nvh"
+      ],
+      "description": "- More than 5 years experience in Hypermesh for Finite Element model setup for large assemblies ......"
+    },
+    {
+      "id": 6,
+      "title": "Manager - Portfolio Analytics - NBFC - Iit/nit/bits",
+      "experience": "4-9 yrs",
+      "location": "Chennai, Pune",
+      "salary": "\u20b915 \u2013 25 LPA",
+      "type": "Analytics",
+      "skills": [
+        "Manager - Portfolio Analytics",
+        "Portfolio Analytics",
+        "Analytics..."
+      ],
+      "description": "- Experience in digital, always-on systems like real-time credit evaluations, e-commerce, digital ......"
+    },
+    {
+      "id": 8,
+      "title": "Fresher Analytics ( Hiring for Analyst | Data Research Team )-mnc-kpo",
+      "experience": "0-0 yrs",
+      "location": "Delhi NCR, Faridabad, Ghaziabad, Greater Noida, Gurgaon, Noida",
+      "salary": "\u20b90 \u2013 3 LPA",
+      "type": "Analytics",
+      "skills": [
+        "Analysis",
+        "Research",
+        "Analyst",
+        "Research Analyst",
+        "Research Associate",
+        "Research..."
+      ],
+      "description": "Enterprise analytics position requiring hands-on technical problem solving."
+    },
+    {
+      "id": 11,
+      "title": "Analytics Specialist",
+      "experience": "2-7 yrs",
+      "location": "Gurgaon, Mumbai",
+      "salary": "\u20b96 \u2013 10 LPA",
+      "type": "Analytics",
+      "skills": [
+        "Analytics",
+        "Data Analysis",
+        "Data Mining",
+        "Sql",
+        "Trend Analysis..."
+      ],
+      "description": "Enterprise analytics position requiring hands-on technical problem solving."
+    },
+    {
+      "id": 12,
+      "title": "Data Science & Machine Learning Role - Python/sql/r/etl/scala",
+      "experience": "5-9 yrs",
+      "location": "Gurgaon",
+      "salary": "\u20b915 \u2013 25 LPA",
+      "type": "Full Time",
+      "skills": [
+        "Data Science",
+        "Scala",
+        "Machine Learning",
+        "Java",
+        "Python",
+        "Sql",
+        "R"
+      ],
+      "description": "- Have good time management skills and should be able to meet the expected deliverables;;- Extensive ......"
+    },
+    {
+      "id": 13,
+      "title": "Big Data Architect/specialist - Java/hadoop",
+      "experience": "9-14 yrs",
+      "location": "Bengaluru, Delhi NCR",
+      "salary": "\u20b925 \u2013 50 LPA",
+      "type": "Full Time",
+      "skills": [
+        "Java",
+        "J2Ee",
+        "Spring Framework",
+        "Hadoop",
+        "Mapreduce",
+        "Spark",
+        "Hbase"
+      ],
+      "description": "- Must have experience in designing and architecting large scale distributed applications;- Must have ......"
+    },
+    {
+      "id": 14,
+      "title": "Big Data Architect - Data Analytics/data Modeling",
+      "experience": "11-15 yrs",
+      "location": "Bengaluru",
+      "salary": "\u20b915 \u2013 25 LPA",
+      "type": "Analytics",
+      "skills": [
+        "Poc",
+        "Data Analytics",
+        "Big Data",
+        "Data Modeling",
+        "Data Management..."
+      ],
+      "description": "- Deep experience in Data platform designing, architecting, implementation & operations standards ......"
+    },
+    {
+      "id": 16,
+      "title": "Analyst - Background Verification (Day Shift)",
+      "experience": "0-3 yrs",
+      "location": "Kolkata(Salt Lake)",
+      "salary": "\u20b90 \u2013 3 LPA",
+      "type": "Full Time",
+      "skills": [
+        "Background Verification",
+        "Backend",
+        "Back Office",
+        "Back Office Operations..."
+      ],
+      "description": "Should be focused on quality and error free reports;You will be required to use the database and the ......"
+    },
+    {
+      "id": 17,
+      "title": "Big Data Solution Architect  - Automobiles - Chennai",
+      "experience": "8-13 yrs",
+      "location": "Chennai",
+      "salary": "\u20b925 \u2013 50 LPA",
+      "type": "analytics",
+      "skills": [
+        "Spark",
+        "Big Data Analytics",
+        "Data Analysis",
+        "Software Development"
+      ],
+      "description": "9+ YEARS OF EXPERIENCE IN SOFTWARE DEVELOPMENT ;- EXPERIENCE WITH SPARK, SPARK-STREAMING, SPARK-ML, ......"
+    },
+    {
+      "id": 20,
+      "title": "Urgently Hiring For Solution Consultant - Adobe Analytics Cloud",
+      "experience": "4-8 yrs",
+      "location": "Delhi NCR, Mumbai, Gurgaon",
+      "salary": "\u20b93 \u2013 6 LPA",
+      "type": "Analytics",
+      "skills": [
+        "Product Sales",
+        "Product Marketing",
+        "Product Management",
+        "Sales Training",
+        "Sales..."
+      ],
+      "description": "4-8 years experience in Analytics or DMP technical sales;The Solution Consultant must be able to ......"
+    },
+    {
+      "id": 24,
+      "title": "Image Processing Engineer - Machine Learning/opencv",
+      "experience": "4-6 yrs",
+      "location": "Mumbai",
+      "salary": "\u20b96 \u2013 10 LPA",
+      "type": "Full Time",
+      "skills": [
+        "Opencv",
+        "C++",
+        "Image Processing",
+        "Matlab",
+        "Algorithms",
+        "Machine Learning..."
+      ],
+      "description": "Key Skills: Matlab, Image Processing, C++, Machine learning, TensorFlow, Caffe2, Pytorch, Open Neural ......"
+    },
+    {
+      "id": 25,
+      "title": "Data Science Leader",
+      "experience": "12-16 yrs",
+      "location": "Pune",
+      "salary": "\u20b925 \u2013 50 LPA",
+      "type": "Analytics",
+      "skills": [
+        "Statistics",
+        "Advanced Analytics",
+        "Data Science",
+        "Predictive Modeling..."
+      ],
+      "description": "College, university, or equivalent degree in statistics, information systems or related field required ......"
+    },
+    {
+      "id": 28,
+      "title": "Senior Financial Analyst - Corporate Accounting",
+      "experience": "1-6 yrs",
+      "location": "Bengaluru",
+      "salary": "\u20b90 \u2013 3 LPA",
+      "type": "Full Time",
+      "skills": [
+        "Corporate Accounting",
+        "Finance",
+        "Financial Auditing",
+        "Us Gaap..."
+      ],
+      "description": "Should possess high energy level, be a self-starter, a good team player, self-motivated and driven to ......"
+    },
+    {
+      "id": 30,
+      "title": "Business Analyst- Catalyst Services ( Reporting & Analytics)",
+      "experience": "3-6 yrs",
+      "location": "Coimbatore",
+      "salary": "\u20b93 \u2013 6 LPA",
+      "type": "Analytics",
+      "skills": [
+        "Business Analysis",
+        "Analytics",
+        "Business Reporting",
+        "Data Quality..."
+      ],
+      "description": "Enterprise analytics position requiring hands-on technical problem solving."
+    },
+    {
+      "id": 33,
+      "title": "Hiring for Financial Analyst - on Contract @flipkart | Bangalore",
+      "experience": "1-4 yrs",
+      "location": "Bengaluru",
+      "salary": "\u20b90 \u2013 3 LPA",
+      "type": "Full Time",
+      "skills": [
+        "Finance",
+        "Budgeting",
+        "Financial Analysis",
+        "Problem Solving",
+        "Report Preparation..."
+      ],
+      "description": "4.\tIndividual team contributor & good team player; ability to handle assigned areas effectively & ......"
+    },
+    {
+      "id": 35,
+      "title": "Data Engineer",
+      "experience": "3-6 yrs",
+      "location": "Bengaluru",
+      "salary": "\u20b925 \u2013 50 LPA",
+      "type": "Full Time",
+      "skills": [
+        "Python",
+        "Machine Learning",
+        "Spark",
+        "Javascript",
+        "Data Structures",
+        "Scalability..."
+      ],
+      "description": "- 2+ years of experience in a software or data engineering role;- Hands-on experience with one of the ......"
+    },
+    {
+      "id": 38,
+      "title": "Oracle Data Integrator (odi)",
+      "experience": "2-7 yrs",
+      "location": "Mumbai",
+      "salary": "\u20b96 \u2013 10 LPA",
+      "type": "Full Time",
+      "skills": [
+        "Information Technology",
+        "Business Process",
+        "Outsourcing",
+        "Operations..."
+      ],
+      "description": "Enterprise analytics position requiring hands-on technical problem solving."
+    },
+    {
+      "id": 39,
+      "title": "Senior Analytics Consultant",
+      "experience": "4-8 yrs",
+      "location": "Gurgaon",
+      "salary": "\u20b96 \u2013 10 LPA",
+      "type": "Analytics",
+      "skills": [
+        "Team Management",
+        "Excel Powerpoint",
+        "Data Analytics",
+        "Client Engagement..."
+      ],
+      "description": "The position required for an individual to manage Decision Points client engagement end to end which ......"
+    },
+    {
+      "id": 40,
+      "title": "Bl046-fjs Data Migration Analyst (offshore)",
+      "experience": "2-5 yrs",
+      "location": "Chennai",
+      "salary": "\u20b96 \u2013 10 LPA",
+      "type": "Full Time",
+      "skills": [
+        "Data Migration",
+        "Data Cleansing",
+        "Sap Data Services",
+        "Data Management..."
+      ],
+      "description": "Executing appropriate data migration solutions including ,  where required ,  transformation ......"
+    },
+    {
+      "id": 41,
+      "title": "SAP SD Analyst",
+      "experience": "6-11 yrs",
+      "location": "Pune",
+      "salary": "\u20b96 \u2013 10 LPA",
+      "type": "Full Time",
+      "skills": [
+        "Vistex",
+        "Sap Sd",
+        "Sap Sd Analyst",
+        "Ecc",
+        "Order To Cash"
+      ],
+      "description": "Should have worked on multiple enhancements & customizations right from requirements gathering to ......"
+    },
+    {
+      "id": 43,
+      "title": "Tendering Engineer- Electrical, upto 30k, Dwarka",
+      "experience": "2-7 yrs",
+      "location": "Delhi NCR, Delhi",
+      "salary": "\u20b90 \u2013 3 LPA",
+      "type": "Full Time",
+      "skills": [
+        "Electrical Engineering",
+        "Tendering",
+        "Bidding",
+        "Proposal",
+        "Estimation",
+        "Boq",
+        "Rate..."
+      ],
+      "description": "Enterprise analytics position requiring hands-on technical problem solving."
+    },
+    {
+      "id": 44,
+      "title": "Opportunity for Risk & Safety Engineer / Manager -isspl-mumbai",
+      "experience": "8-12 yrs",
+      "location": "Mumbai",
+      "salary": "\u20b910 \u2013 15 LPA",
+      "type": "Full Time",
+      "skills": [
+        "Hazard Analysis",
+        "Hazop Study",
+        "Hazid",
+        "Risk And Safety Manager"
+      ],
+      "description": "Experience: 8+ years in Risk & Safety Studies, preferable in consulting firm (PMC/TPI);Skills ......"
+    },
+    {
+      "id": 45,
+      "title": "Associate Vice President - Analytics - Credit Cards - Iim/isi/iisc/mdi",
+      "experience": "7-12 yrs",
+      "location": "Delhi NCR, Gurgaon",
+      "salary": "\u20b925 \u2013 50 LPA",
+      "type": "Analytics",
+      "skills": [
+        "Banking Analytics",
+        "Team Leading",
+        "Credit Cards",
+        "Business Intelligence..."
+      ],
+      "description": "- Experience in Credit card/ banking domain with knowledge across customer lifecycle is must;- Candidate ......"
+    },
+    {
+      "id": 48,
+      "title": "IT Company Hiring - IT Asset Analyst / Executive - Mumbai - Goregaon",
+      "experience": "3-5 yrs",
+      "location": "Mumbai Suburbs, Mumbai, Thane",
+      "salary": "\u20b90 \u2013 3 LPA",
+      "type": "Full Time",
+      "skills": [
+        "It Asset",
+        "It Inventory",
+        "It Asset Management",
+        "It Procurement"
+      ],
+      "description": "Enterprise analytics position requiring hands-on technical problem solving."
+    },
+    {
+      "id": 49,
+      "title": "OTS - Senior Analyst - Senior",
+      "experience": "3-5 yrs",
+      "location": "Gurgaon",
+      "salary": "\u20b93 \u2013 6 LPA",
+      "type": "Full Time",
+      "skills": [
+        "Project Management",
+        "Project Execution",
+        "Due Diligence",
+        "Strategy",
+        "Transaction..."
+      ],
+      "description": "At least 2 years of functional experience in corporate finance, supply chain, manufacturing, procurement, ......"
+    },
+    {
+      "id": 50,
+      "title": "Research Analyst _US MNC",
+      "experience": "1-4 yrs",
+      "location": "Chandigarh",
+      "salary": "\u20b90 \u2013 3 LPA",
+      "type": "Full Time",
+      "skills": [
+        "Communication",
+        "Research Analysis",
+        "Writing Skills",
+        "Social Media Analyst..."
+      ],
+      "description": "Enterprise analytics position requiring hands-on technical problem solving."
+    },
+    {
+      "id": 53,
+      "title": "Software Engineer (database Developer)",
+      "experience": "2-3 yrs",
+      "location": "Bengaluru(Whitefield)",
+      "salary": "\u20b93 \u2013 6 LPA",
+      "type": "Analytics",
+      "skills": [
+        "Database Development",
+        "Sql Developer",
+        "Postgresql"
+      ],
+      "description": "2 to 3 years relevant experience in database development;Experience with the following technologies ......"
+    },
+    {
+      "id": 55,
+      "title": "Talent Acquisition Role (analytics Hiring Specialist)",
+      "experience": "4-6 yrs",
+      "location": "Gurgaon, Bengaluru",
+      "salary": "\u20b910 \u2013 15 LPA",
+      "type": "analytics",
+      "skills": [
+        "Recruitment",
+        "Talent Acquisition",
+        "Campus Hiring",
+        "Sourcing",
+        "Analytics Hiring"
+      ],
+      "description": "Enterprise analytics position requiring hands-on technical problem solving."
+    },
+    {
+      "id": 56,
+      "title": "Research Analyst - Product Management Group - Metrics & Analytics",
+      "experience": "2-6 yrs",
+      "location": "Mumbai",
+      "salary": "\u20b96 \u2013 10 LPA",
+      "type": "Analytics",
+      "skills": [
+        "Finance",
+        "Monetization",
+        "Investment Banking",
+        "Data Analysis",
+        "Research Analysis..."
+      ],
+      "description": "- A candidate with 1-2 years of experience in Tableau must have built at least 3-4 full scale dashboards ......"
+    },
+    {
+      "id": 57,
+      "title": "Big Data Developer",
+      "experience": "3-8 yrs",
+      "location": "Pune",
+      "salary": "\u20b910 \u2013 15 LPA",
+      "type": "Full Time",
+      "skills": [
+        "C",
+        "Algorithms",
+        "C++",
+        "Java",
+        "Data Structures",
+        "Hadoop",
+        "Linux..."
+      ],
+      "description": "3 to 6 years extensive experience development in C/C++/Java/Python;Hands on experience in data ......"
+    },
+    {
+      "id": 58,
+      "title": "Software Engineer III - Big Data Analytics",
+      "experience": "6-9 yrs",
+      "location": "Bengaluru",
+      "salary": "\u20b915 \u2013 25 LPA",
+      "type": "Analytics",
+      "skills": [
+        "Core Java",
+        "Spring",
+        "Jsp",
+        "Html",
+        "Maven",
+        "Hadoop",
+        "Mysql"
+      ],
+      "description": "5-7 years of experience in building distributed data intensive applications; 5-8 years of ......"
+    },
+    {
+      "id": 61,
+      "title": "Data Scientist",
+      "experience": "1-6 yrs",
+      "location": "Hyderabad",
+      "salary": "\u20b910 \u2013 15 LPA",
+      "type": "Full Time",
+      "skills": [
+        "Deep Learning",
+        "Machine Learning",
+        "Natural Language Processing",
+        "Nlp",
+        "Python..."
+      ],
+      "description": "Familiarity of intricacies in many of these through actual real world implementation experience is a ......"
+    },
+    {
+      "id": 62,
+      "title": "Sr  Mgr / Mgr - Business Process Reengineering",
+      "experience": "4-7 yrs",
+      "location": "Delhi NCR",
+      "salary": "\u20b910 \u2013 15 LPA",
+      "type": "analytic",
+      "skills": [
+        "Project Management",
+        "Lean Six Sigma",
+        "Kpo",
+        "Bpo",
+        "Program Management",
+        "Pmp..."
+      ],
+      "description": "- Has strong analytic and problem solving skills & must be articulate;- Must have in-depth knowledge ......"
+    },
+    {
+      "id": 63,
+      "title": "Business Analyst - SAS - Retail & Banking",
+      "experience": "2-4 yrs",
+      "location": "Bengaluru, Gurgaon",
+      "salary": "\u20b96 \u2013 10 LPA",
+      "type": "Full Time",
+      "skills": [
+        "Hive",
+        "Sql",
+        "Customer Segmentation",
+        "Advanced Excel",
+        "Business Analysis",
+        "Sas..."
+      ],
+      "description": "SAS is Mandatory  - Use sophisticated statistical techniques to develop scorecards, customer ......"
+    },
+    {
+      "id": 65,
+      "title": "ETL Big Data Developer Finance",
+      "experience": "3-6 yrs",
+      "location": "Chennai",
+      "salary": "\u20b96 \u2013 10 LPA",
+      "type": "Full Time",
+      "skills": [
+        "Apache",
+        "Shell Scripting",
+        "Python",
+        "Business Intelligence..."
+      ],
+      "description": "Must have the ability to design,  co- ordinate and develop in a fast paced agile environment;Must have ......"
+    },
+    {
+      "id": 66,
+      "title": "Payments Business Analyst",
+      "experience": "1-2 yrs",
+      "location": "Pune",
+      "salary": "\u20b90 \u2013 3 LPA",
+      "type": "Full Time",
+      "skills": [
+        "Strong Analytical Skills",
+        "Business Analysis",
+        "It Services..."
+      ],
+      "description": "Total Exp required  BE / MBA with 12 months to 23 months ONLY (Anyone with less than OR more than this ......"
+    },
+    {
+      "id": 67,
+      "title": "Financial Analyst, O2C , Accounts Payable Associate , Accounts rec",
+      "experience": "1-6 yrs",
+      "location": "Delhi NCR",
+      "salary": "\u20b90 \u2013 3 LPA",
+      "type": "Full Time",
+      "skills": [
+        "Accounting",
+        "Finance",
+        "Ar",
+        "Accounts Payable",
+        "O2C",
+        "Financial Analysis..."
+      ],
+      "description": "Enterprise analytics position requiring hands-on technical problem solving."
+    },
+    {
+      "id": 70,
+      "title": "Data Mining Manager",
+      "experience": "5-8 yrs",
+      "location": "Hyderabad",
+      "salary": "\u20b93 \u2013 6 LPA",
+      "type": "Analytics",
+      "skills": [
+        "Sas",
+        "Sql",
+        "Chaid",
+        "Excel",
+        "R",
+        "Advanced Analytics",
+        "Nlp"
+      ],
+      "description": "At least 3+ years hand on experience in Advanced Analytics;Develop and support Best-in-class analytic ......"
+    },
+    {
+      "id": 72,
+      "title": "Quality Analyst- Testing ( Java Script , J Query)",
+      "experience": "2-6 yrs",
+      "location": "Pune",
+      "salary": "\u20b93 \u2013 6 LPA",
+      "type": "Full Time",
+      "skills": [
+        "Javascript",
+        "Jquery",
+        "Android",
+        "Java",
+        "Cloud",
+        "Fiddler",
+        "Jira"
+      ],
+      "description": "Experience with project management software, such as Jira;Experience with network/proxy monitoring tools ......"
+    },
+    {
+      "id": 73,
+      "title": "Marketing Advisor/consultant - Fmcg",
+      "experience": "16-26 yrs",
+      "location": "Noida(Sector-57 Noida)",
+      "salary": "\u20b910 \u2013 15 LPA",
+      "type": "Full Time",
+      "skills": [
+        "Marketing",
+        "Sales",
+        "Branding",
+        "Advertising",
+        "Fmcg",
+        "Positioning",
+        "Strategy..."
+      ],
+      "description": "  Analyses details of competitor offerings, including specifications, market share, pricing, and ......"
+    },
+    {
+      "id": 79,
+      "title": "Data Scientist",
+      "experience": "2-4 yrs",
+      "location": "Bengaluru",
+      "salary": "\u20b93 \u2013 6 LPA",
+      "type": "Full Time",
+      "skills": [
+        "Data Mining",
+        "R",
+        "Process Analysis",
+        "Effective Communication",
+        "Python"
+      ],
+      "description": "  Interact with business users to understand the processes responsible for data generation ......"
+    },
+    {
+      "id": 81,
+      "title": "GIS Analyst ( Remote Sensing ) Thane",
+      "experience": "3-8 yrs",
+      "location": "Mumbai",
+      "salary": "\u20b96 \u2013 10 LPA",
+      "type": "Full Time",
+      "skills": [
+        "Gis",
+        "Esri",
+        "Remote Sensing",
+        "R",
+        "Image Processing",
+        "Statistical Analysis"
+      ],
+      "description": "Strong computer skills and a capacity to learn new emerging technologies is also a must;Willingness to ......"
+    },
+    {
+      "id": 87,
+      "title": "RLS Analytics Manager",
+      "experience": "8-12 yrs",
+      "location": "Pune",
+      "salary": "\u20b910 \u2013 15 LPA",
+      "type": "Analytics",
+      "skills": [
+        "Computer Science",
+        "Engineering Manager",
+        "Project Management",
+        "Analytics..."
+      ],
+      "description": "Experience in programming and automating manual tasks and certifications in Project Management (PMP), ......"
+    },
+    {
+      "id": 94,
+      "title": "Corporate Governance Research Analyst (leading Financial Services Co)",
+      "experience": "2-4 yrs",
+      "location": "Mumbai",
+      "salary": "\u20b910 \u2013 15 LPA",
+      "type": "Full Time",
+      "skills": [
+        "Llb",
+        "Llm",
+        "Finance",
+        "Corporate Governance",
+        "Company Secretary..."
+      ],
+      "description": "- 2+ years of experience with exposure to Indian financial markets;- 2+ years of experience with ......"
+    },
+    {
+      "id": 95,
+      "title": "Business Analyst/technical Analyst role @ Harman Hyderabad",
+      "experience": "7-12 yrs",
+      "location": "Hyderabad",
+      "salary": "\u20b915 \u2013 25 LPA",
+      "type": "Full Time",
+      "skills": [
+        "Scope",
+        "Project Management",
+        "Uat",
+        "Consulting",
+        "Business Analysis..."
+      ],
+      "description": "Overall experience of close 7-10 years: 1;Good knowledge on connect direct file transfer mechanism ......"
+    },
+    {
+      "id": 96,
+      "title": "Interview Scheduled for Data Analyst on 6th October at Powai Location",
+      "experience": "3-8 yrs",
+      "location": "Chennai",
+      "salary": "\u20b93 \u2013 6 LPA",
+      "type": "Full Time",
+      "skills": [
+        "Oracle Sql",
+        "Data Analysis",
+        "Retail Banking",
+        "Bfsi",
+        "Banking",
+        "Investment..."
+      ],
+      "description": "Min experience in Retail banking domain / or any BFS domain would do;Hands on Experience in SQL is a ......"
+    },
+    {
+      "id": 99,
+      "title": "Business Analyst - E Tendering",
+      "experience": "3-5 yrs",
+      "location": "Delhi NCR",
+      "salary": "\u20b93 \u2013 6 LPA",
+      "type": "Full Time",
+      "skills": [
+        "Business Analysis",
+        "E - Tendering",
+        "Bidding",
+        "Techno Commmercial"
+      ],
+      "description": "Enterprise analytics position requiring hands-on technical problem solving."
+    },
+    {
+      "id": 101,
+      "title": "Data Modeler - Fsldm",
+      "experience": "5-10 yrs",
+      "location": "Noida",
+      "salary": "\u20b915 \u2013 25 LPA",
+      "type": "Full Time",
+      "skills": [
+        "Multivariate Analysis",
+        "Etl",
+        "Data Warehousing",
+        "Data Modeling..."
+      ],
+      "description": "Very good understanding on FSLDM Model (Mandatory);Rich experience in ETL, cleansing, customization, ......"
+    },
+    {
+      "id": 102,
+      "title": "Senior SOX Analyst - BFS",
+      "experience": "3-5 yrs",
+      "location": "Bengaluru",
+      "salary": "\u20b910 \u2013 15 LPA",
+      "type": "Full Time",
+      "skills": [
+        "Legal Management",
+        "Administration",
+        "Risk Control",
+        "Asset Management..."
+      ],
+      "description": "- REO Sales : A national real estate brokerage featuring a combination of traditional and online bidding ......"
+    },
+    {
+      "id": 105,
+      "title": "Factory Incharge /production Incharge, Icp-ms Analyst, Telemarketing",
+      "experience": "0-5 yrs",
+      "location": "Bengaluru, Chennai",
+      "salary": "\u20b93 \u2013 6 LPA",
+      "type": "Full Time",
+      "skills": [
+        "Factory Incharge",
+        "Production Incharge",
+        "Factory",
+        "Icp",
+        "Icp - Ms..."
+      ],
+      "description": "If any of your friends / colleagues profile matches the above requirement, kindly suggest them to apply ......"
+    },
+    {
+      "id": 107,
+      "title": "Sr. Software Analyst - Machine Learning & Artificial Intelligence",
+      "experience": "2-7 yrs",
+      "location": "Pune(Senapati Bapat Road)",
+      "salary": "\u20b915 \u2013 25 LPA",
+      "type": "Full Time",
+      "skills": [
+        "C++",
+        "Python",
+        "Artificial Intelligence",
+        "Machine Learning",
+        "Algorithms..."
+      ],
+      "description": "in related field with 3+ years of experience applying data science techniques to real business problems ......"
+    },
+    {
+      "id": 108,
+      "title": "Enterprise Architecture",
+      "experience": "2-5 yrs",
+      "location": "Bengaluru",
+      "salary": "\u20b93 \u2013 6 LPA",
+      "type": "Analytics",
+      "skills": [
+        "Analytics",
+        "System Software",
+        "Outsourcing",
+        "Enterprise Architecture",
+        "Togaf..."
+      ],
+      "description": "Enterprise analytics position requiring hands-on technical problem solving."
+    },
+    {
+      "id": 109,
+      "title": "Looking for Data Analyst in Pune",
+      "experience": "4-9 yrs",
+      "location": "Pune",
+      "salary": "\u20b910 \u2013 15 LPA",
+      "type": "Full Time",
+      "skills": [
+        "Data Analysis",
+        "Salesforce",
+        "Sfdc",
+        "Excel",
+        "Quarterly Strategy Review..."
+      ],
+      "description": "Spreadsheet skills with demonstrated experience managing large data sets and preparing various reports ......"
+    },
+    {
+      "id": 111,
+      "title": "Sr Portfolio Risk Analyst (manager) Mumbai (mutual Fund)",
+      "experience": "3-7 yrs",
+      "location": "Mumbai",
+      "salary": "\u20b910 \u2013 15 LPA",
+      "type": "Full Time",
+      "skills": [
+        "Liquidity Risk",
+        "Market Risk",
+        "Risk Analysis",
+        "Regulatory Reporting",
+        "It Risk..."
+      ],
+      "description": "Build and maintain good knowledge of products, investment processes, trading strategies, market ......"
+    },
+    {
+      "id": 112,
+      "title": "Property Analyst",
+      "experience": "0-3 yrs",
+      "location": "Bengaluru",
+      "salary": "\u20b90 \u2013 3 LPA",
+      "type": "Full Time",
+      "skills": [
+        "Market Research",
+        "Real Estate Marketing",
+        "Financial Modelling..."
+      ],
+      "description": "Enterprise analytics position requiring hands-on technical problem solving."
+    },
+    {
+      "id": 114,
+      "title": "Business Analyst",
+      "experience": "1-3 yrs",
+      "location": "Gurgaon",
+      "salary": "\u20b96 \u2013 10 LPA",
+      "type": "Analytics",
+      "skills": [
+        "Data Science",
+        "Business Analysis",
+        "Business Analytics",
+        "Machine Learning",
+        "Data..."
+      ],
+      "description": "Additionally, you will have an opportunity to develop and test machine learning models that can directly ......"
+    },
+    {
+      "id": 115,
+      "title": "Test Analyst for Bangalore (client Location)",
+      "experience": "3-5 yrs",
+      "location": "Bengaluru(Ulsoor)",
+      "salary": "\u20b910 \u2013 15 LPA",
+      "type": "Full Time",
+      "skills": [
+        "Finance",
+        "Hyperion Financial Management",
+        "Test Analysis"
+      ],
+      "description": "Enterprise analytics position requiring hands-on technical problem solving."
+    },
+    {
+      "id": 116,
+      "title": "Senior Test Engineer _tester Cum Developer",
+      "experience": "4-9 yrs",
+      "location": "Bengaluru",
+      "salary": "\u20b96 \u2013 10 LPA",
+      "type": "Full Time",
+      "skills": [
+        "Html",
+        "Selenium",
+        "Analytical",
+        "Gui Testing",
+        "Testing",
+        "Automation Testing",
+        "Skill..."
+      ],
+      "description": "Member should achieve 75\\% test automation coverage;Minimum 4 years of experience in product Development ......"
+    },
+    {
+      "id": 117,
+      "title": "Immediate Hiring for Data Scientist for Bng/chn/pune/mumbai",
+      "experience": "8-13 yrs",
+      "location": "Chennai, Bengaluru, Pune, Mumbai",
+      "salary": "\u20b915 \u2013 25 LPA",
+      "type": "Full Time",
+      "skills": [
+        "R",
+        "C",
+        "Sas",
+        "Python",
+        "Data Science",
+        "Data Scientist",
+        "Senior Data Scientist..."
+      ],
+      "description": "Experience working with large data sets in order to extract business insights or build predictive models ......"
+    },
+    {
+      "id": 118,
+      "title": "SAP FICO Consultant",
+      "experience": "2-5 yrs",
+      "location": "Ludhiana",
+      "salary": "\u20b90 \u2013 3 LPA",
+      "type": "Full Time",
+      "skills": [
+        "Asset Accounting",
+        "Internal Orders",
+        "Gl Accounting",
+        "Profit Centre",
+        "Sap Fico..."
+      ],
+      "description": "Looking for FICO functional SAP FICO consultant having 2-5 years experience in SAP environment ......"
+    },
+    {
+      "id": 120,
+      "title": "Sales and Marketing Data Analyst - Data Analytics",
+      "experience": "2-6 yrs",
+      "location": "Pune(Kharadi)",
+      "salary": "\u20b910 \u2013 15 LPA",
+      "type": "Analytics",
+      "skills": [
+        "Marketing Automation",
+        "Sales",
+        "Salesforce",
+        "Eloqua",
+        "Data Analysis..."
+      ],
+      "description": "3+ years of software development experience;Leverage experience in usage of tools and technologies like, ......"
+    },
+    {
+      "id": 122,
+      "title": "Microsoft Advanced Analytics",
+      "experience": "2-5 yrs",
+      "location": "Hyderabad",
+      "salary": "\u20b96 \u2013 10 LPA",
+      "type": "Analytics",
+      "skills": [
+        "Microsoft",
+        "Business Process",
+        "Scheduling",
+        "Outsourcing",
+        "Operations..."
+      ],
+      "description": "D Should have knowledge creating mobile views for reports and dashboards;A Should have Minimum 2 years ......"
+    },
+    {
+      "id": 123,
+      "title": "Artificial Intelligence Professional",
+      "experience": "2-4 yrs",
+      "location": "Noida",
+      "salary": "\u20b915 \u2013 25 LPA",
+      "type": "Full Time",
+      "skills": [
+        "Artificial Intelligence Professional",
+        "Machine Learning",
+        "Algorithms",
+        "Nlp..."
+      ],
+      "description": "- Experience in financial services industry would be a great advantage;- Mid-level professional with 2 ......"
+    },
+    {
+      "id": 124,
+      "title": "Sourcing & Development Engineer",
+      "experience": "2-7 yrs",
+      "location": "Hosur",
+      "salary": "\u20b910 \u2013 15 LPA",
+      "type": "Full Time",
+      "skills": [
+        "Production Planning",
+        "Cost Reduction",
+        "Capacity Enhancement..."
+      ],
+      "description": "Actions of supplier QCD improvement / Encourage supplier to go for QMS ......"
+    },
+    {
+      "id": 128,
+      "title": "Required Quality Analyst for Banking Products",
+      "experience": "1-4 yrs",
+      "location": "Delhi NCR, Gurgaon, Noida",
+      "salary": "\u20b90 \u2013 3 LPA",
+      "type": "Full Time",
+      "skills": [
+        "Providing Training",
+        "Banking Products",
+        "Quality Analysis..."
+      ],
+      "description": "Enterprise analytics position requiring hands-on technical problem solving."
+    },
+    {
+      "id": 129,
+      "title": "ERP Systems Analyst - SAP FI",
+      "experience": "9-12 yrs",
+      "location": "Bengaluru",
+      "salary": "\u20b915 \u2013 25 LPA",
+      "type": "Full Time",
+      "skills": [
+        "Sap Fi",
+        "Erp Systems Analyst",
+        "Sap Functional Analyst",
+        "S / 4 Hana",
+        "Wricef..."
+      ],
+      "description": "Enterprise analytics position requiring hands-on technical problem solving."
+    },
+    {
+      "id": 131,
+      "title": "Security Operations Analyst",
+      "experience": "5-10 yrs",
+      "location": "Mumbai",
+      "salary": "\u20b915 \u2013 25 LPA",
+      "type": "Full Time",
+      "skills": [
+        "Nessus",
+        "Splunk",
+        "Wireshark"
+      ],
+      "description": "At least 5 years hands on experience in IT;Self-driven and motivated must be able to work alone as well ......"
+    },
+    {
+      "id": 136,
+      "title": "Banking Analytics Lead- (business Intelligence)",
+      "experience": "5-10 yrs",
+      "location": "Pune",
+      "salary": "\u20b915 \u2013 25 LPA",
+      "type": "Analytics",
+      "skills": [
+        "Credit Analysis",
+        "Predictive Analytics",
+        "Credit Risk",
+        "Credit Rating..."
+      ],
+      "description": "Type of products which we should offer - design products well suited to changing customer requirements ......"
+    },
+    {
+      "id": 137,
+      "title": "Specialized Analytics Manager",
+      "experience": "4-8 yrs",
+      "location": "Bengaluru",
+      "salary": "\u20b96 \u2013 10 LPA",
+      "type": "Analytics",
+      "skills": [
+        "Financial Services",
+        "Seo",
+        "Analytical",
+        "Forecasting",
+        "Ppc",
+        "Simulation",
+        "Customer..."
+      ],
+      "description": "    Title: Assistant Vice President    Grade: C12    Reporting to: Vice ......"
+    },
+    {
+      "id": 138,
+      "title": "Data Science",
+      "experience": "4-9 yrs",
+      "location": "Pune",
+      "salary": "\u20b96 \u2013 10 LPA",
+      "type": "Analytics",
+      "skills": [
+        "R",
+        "Sas",
+        "Linear Regression",
+        "Logistic Regression",
+        "Predictive Modeling..."
+      ],
+      "description": "5-6 years of Hands on experience of developing high end statistical models;Analytics Domain intensive ......"
+    },
+    {
+      "id": 140,
+      "title": "Principal Analyst - Financial Operations - Professional Services Firm",
+      "experience": "10-15 yrs",
+      "location": "Bengaluru",
+      "salary": "\u20b915 \u2013 25 LPA",
+      "type": "Full Time",
+      "skills": [
+        "Financial Operations",
+        "Finance",
+        "Budgeting",
+        "Team Management..."
+      ],
+      "description": "Understanding of revenue recognition policies within a Professional Services organization ......"
+    },
+    {
+      "id": 141,
+      "title": "Urgent Opening Traffic  / Pavement  Engineer Bangalore",
+      "experience": "5-7 yrs",
+      "location": "Bengaluru",
+      "salary": "\u20b96 \u2013 10 LPA",
+      "type": "Full Time",
+      "skills": [
+        "Road Safety",
+        "Safety Audit",
+        "Demand Forecasting",
+        "Data Analysis"
+      ],
+      "description": "Urgent Opening for Pavement /Traffic Engineer with 5-7 years exp in Highway Project with MTech in ......"
+    },
+    {
+      "id": 142,
+      "title": "Senior Analyst / Specialist for DLP- Data Loss Prevention",
+      "experience": "4-7 yrs",
+      "location": "Pune",
+      "salary": "\u20b96 \u2013 10 LPA",
+      "type": "Full Time",
+      "skills": [
+        "Information Security",
+        "Siem",
+        "Vulnerability Assessment",
+        "Soc..."
+      ],
+      "description": "Enterprise analytics position requiring hands-on technical problem solving."
+    },
+    {
+      "id": 143,
+      "title": "Opening for \"  Analytics & Reporting\" for MNC  in Pune",
+      "experience": "8-13 yrs",
+      "location": "Pune",
+      "salary": "\u20b915 \u2013 25 LPA",
+      "type": "Analytics",
+      "skills": [
+        "Project Management",
+        "Delivery Management",
+        "Scope",
+        "Client Solutions..."
+      ],
+      "description": "Ability to use logical sound judgment and experience to determine the appropriate course of action based ......"
+    },
+    {
+      "id": 145,
+      "title": "Associate Lead Software Engineer (java, Hadoop)",
+      "experience": "3-7 yrs",
+      "location": "Bengaluru",
+      "salary": "\u20b93 \u2013 6 LPA",
+      "type": "Full Time",
+      "skills": [
+        "Web Services",
+        "Healthcare",
+        "Computer Science",
+        "Continuous Improvement..."
+      ],
+      "description": "Bachelors or Masters in Computer Engineering,  Computer Science,  Software Engineering,  or related ......"
+    },
+    {
+      "id": 146,
+      "title": "SEM Analyst/ Senior SEM/ Associate Manager SEM/ SEM Lead",
+      "experience": "2-7 yrs",
+      "location": "Chennai",
+      "salary": "\u20b90 \u2013 3 LPA",
+      "type": "Analytics",
+      "skills": [
+        "Google Adwords",
+        "Search Engine Marketing",
+        "Sem",
+        "Ppc",
+        "Google Analytics..."
+      ],
+      "description": "Experience : 2 to 8yrs;Google AdWords & Google Analytics certified;Strong analytical skills and ......"
+    },
+    {
+      "id": 148,
+      "title": "Data Entry Operator",
+      "experience": "0-2 yrs",
+      "location": "Lucknow",
+      "salary": "\u20b90 \u2013 3 LPA",
+      "type": "Full Time",
+      "skills": [
+        "Data Entry",
+        "Typing",
+        "Communication",
+        "Attention To Detail",
+        "Computerknowledge..."
+      ],
+      "description": "Urgently required self-motivated candidate for the position of Data Entry Operator at our organisation ......"
+    },
+    {
+      "id": 149,
+      "title": "AVP - Senior Program Manager - Business Analytics/customer Experience",
+      "experience": "8-13 yrs",
+      "location": "Bengaluru",
+      "salary": "\u20b915 \u2013 25 LPA",
+      "type": "Analytics",
+      "skills": [
+        "Statistical Software",
+        "Customer Service Management",
+        "Operations",
+        "Excel",
+        "Sas..."
+      ],
+      "description": "Program Manager, you will champion identifying and implementing customer service strategies that make ......"
+    },
+    {
+      "id": 151,
+      "title": "SRE Engineer",
+      "experience": "2-6 yrs",
+      "location": "Bengaluru, Kochi, Trivandrum",
+      "salary": "\u20b96 \u2013 10 LPA",
+      "type": "Full Time",
+      "skills": [
+        "Sre Engineer",
+        "Product Engineering",
+        "Software Development",
+        "Rest",
+        "Webservices"
+      ],
+      "description": "1-2 years of experience in developing/operating large scale cloud based distributed applications;If you ......"
+    },
+    {
+      "id": 158,
+      "title": "Senior Consultant/lead Consultant - Planner - Demand Planning",
+      "experience": "5-10 yrs",
+      "location": "Pune",
+      "salary": "\u20b915 \u2013 25 LPA",
+      "type": "Full Time",
+      "skills": [
+        "Inventory Management",
+        "Demand Planning",
+        "Supply Chain Planning..."
+      ],
+      "description": "- Should be able to analyse large sets of disconnected data applying statistical techniques like ......"
+    },
+    {
+      "id": 162,
+      "title": "Head - Analytics",
+      "experience": "12-20 yrs",
+      "location": "Chennai",
+      "salary": "\u20b925 \u2013 50 LPA",
+      "type": "Analytics",
+      "skills": [
+        "Data Analytics",
+        "Data Science",
+        "Predictive Modeling",
+        "Project Management..."
+      ],
+      "description": "*15+ years of analytics experience;This role will be based out of  Chennai (Minimum 12yrs exp ......"
+    },
+    {
+      "id": 164,
+      "title": "Analyst",
+      "experience": "9-14 yrs",
+      "location": "Hyderabad",
+      "salary": "\u20b910 \u2013 15 LPA",
+      "type": "Full Time",
+      "skills": [
+        "Lead Operations",
+        "Customer Service",
+        "Operations",
+        "Information Technology",
+        "Pdf"
+      ],
+      "description": "7-9+ years experience in relevant disciplines at similar sized company;5+ years hands on experience ......"
+    },
+    {
+      "id": 166,
+      "title": "Sr. Analyst / Analyst - QA ( Micro )",
+      "experience": "2-6 yrs",
+      "location": "Ahmedabad",
+      "salary": "\u20b93 \u2013 6 LPA",
+      "type": "Full Time",
+      "skills": [
+        "Microbiology",
+        "Bet",
+        "Environmental Monitoring",
+        "Em",
+        "Media Fill",
+        "Sterlity..."
+      ],
+      "description": "2 - 6 years of experience in Micro department of Pharmaceutical industry, preferably in injectable ......"
+    },
+    {
+      "id": 171,
+      "title": "Business Analyst- Agile Methodology",
+      "experience": "7-12 yrs",
+      "location": "Mumbai",
+      "salary": "\u20b915 \u2013 25 LPA",
+      "type": "Full Time",
+      "skills": [
+        "Scrum Master",
+        "Agile Methodology",
+        "Sdlc",
+        "Brd And Frd",
+        "Uat Testing..."
+      ],
+      "description": "Experience working in fast paced agile environments;Experience working in cross functional teams;Agile ......"
+    },
+    {
+      "id": 172,
+      "title": "Security Analyst - CDRC",
+      "experience": "4-6 yrs",
+      "location": "Trivandrum",
+      "salary": "\u20b93 \u2013 6 LPA",
+      "type": "Full Time",
+      "skills": [
+        "Ccsa",
+        "Ip Networking",
+        "C",
+        "Ccna",
+        "Rhce",
+        "Ceh",
+        "Linux"
+      ],
+      "description": "Good Investigative, analytical and problem solving skills;Minimum of 2-3 years of experience in one or ......"
+    },
+    {
+      "id": 173,
+      "title": "FS Senior Analyst Senior",
+      "experience": "3-5 yrs",
+      "location": "Gurgaon",
+      "salary": "\u20b93 \u2013 6 LPA",
+      "type": "Full Time",
+      "skills": [
+        "Financial Modelling",
+        "Corporate Finance",
+        "Corporate Strategy..."
+      ],
+      "description": "Chartered Accountancy/MBA degree from a premiere institute with 3-5 years of post-qualification ......"
+    },
+    {
+      "id": 176,
+      "title": "Database Developer / Sr.database Developer (5+ Years)",
+      "experience": "5-8 yrs",
+      "location": "Hyderabad",
+      "salary": "\u20b93 \u2013 6 LPA",
+      "type": "Full Time",
+      "skills": [
+        "Css",
+        "Html",
+        "Javascript",
+        "Mysql",
+        "Ms Sql Server",
+        "Sas",
+        "R"
+      ],
+      "description": "Enterprise analytics position requiring hands-on technical problem solving."
+    },
+    {
+      "id": 177,
+      "title": "Hyperion PBCS Jnr.consultant",
+      "experience": "3-8 yrs",
+      "location": "Pune(Phursungi)",
+      "salary": "\u20b96 \u2013 10 LPA",
+      "type": "Full Time",
+      "skills": [
+        "Hyperion Planning",
+        "Third Party",
+        "Root Cause Analysis",
+        "Balance Sheet"
+      ],
+      "description": "Should be independently able to handle work on troubleshooting, root cause analysis, fixing the data ......"
+    },
+    {
+      "id": 178,
+      "title": "PAS EMS CES - Analyst",
+      "experience": "4-8 yrs",
+      "location": "Bengaluru",
+      "salary": "\u20b93 \u2013 6 LPA",
+      "type": "Full Time",
+      "skills": [
+        "Account Management",
+        "Engagement Management",
+        "Service Delivery..."
+      ],
+      "description": "Develop a high level understanding of all the work streams of EMS and collaborate with different work ......"
+    },
+    {
+      "id": 180,
+      "title": "Manager - Business Analyst - ERP Implementation - Accounting Change",
+      "experience": "7-10 yrs",
+      "location": "Mumbai",
+      "salary": "\u20b910 \u2013 15 LPA",
+      "type": "Full Time",
+      "skills": [
+        "Erp Implementation",
+        "Stakeholder Management",
+        "Uat",
+        "Gaap",
+        "Business Process..."
+      ],
+      "description": "- Excellent written and verbal communication skills - experience with cross cultural teams preferred ......"
+    },
+    {
+      "id": 182,
+      "title": "VP - Engineering - Product Startup - Iit/nit",
+      "experience": "10-12 yrs",
+      "location": "Bengaluru",
+      "salary": "\u20b910 \u2013 15 LPA",
+      "type": "Full Time",
+      "skills": [
+        "Product Development",
+        "Object - Oriented Design",
+        "Data Structures..."
+      ],
+      "description": "- Experience in defining and executing professional software engineering best practices for the full ......"
+    },
+    {
+      "id": 184,
+      "title": "Senior/principal Data Scientist",
+      "experience": "5-10 yrs",
+      "location": "Bengaluru",
+      "salary": "\u20b910 \u2013 15 LPA",
+      "type": "Full Time",
+      "skills": [
+        "Hadoop",
+        "Hive",
+        "Text Mining",
+        "Spark",
+        "Pig",
+        "Hbase",
+        "Data Science"
+      ],
+      "description": "Data Scientists with 5 plus years of experience:;Masters or PhD with experience in the area of data ......"
+    },
+    {
+      "id": 185,
+      "title": "Seo/ppc Manager - Digital Analytics / Marketing",
+      "experience": "3-7 yrs",
+      "location": "Mumbai",
+      "salary": "\u20b925 \u2013 50 LPA",
+      "type": "Analytics",
+      "skills": [
+        "Seo",
+        "Ppc",
+        "Web Development",
+        "Web Technologies",
+        "Sem",
+        "Search Engine Marketing..."
+      ],
+      "description": "Minimum of 3 years launching paid campaigns and SEO optimization for SaaS ......"
+    },
+    {
+      "id": 190,
+      "title": "Functional Consultant - ERP Projects",
+      "experience": "3-6 yrs",
+      "location": "Mumbai",
+      "salary": "\u20b910 \u2013 15 LPA",
+      "type": "Full Time",
+      "skills": [
+        "Project Management",
+        "Management Accounting",
+        "Stlc",
+        "Java",
+        "Finance",
+        "Sql..."
+      ],
+      "description": "Demonstrated experience in requirements analysis and design using standard tools and techniques such as ......"
+    },
+    {
+      "id": 194,
+      "title": "Senior Business Analyst Required Under Govt Visa",
+      "experience": "2-7 yrs",
+      "location": "Germany, Hong Kong",
+      "salary": "\u20b90 \u2013 3 LPA",
+      "type": "Full Time",
+      "skills": [
+        "Business Process Analysis",
+        "Business Analysis",
+        "Business Research..."
+      ],
+      "description": "Enterprise analytics position requiring hands-on technical problem solving."
+    },
+    {
+      "id": 195,
+      "title": "Presales Consultant - Big Data/analytics Rfp/rfq",
+      "experience": "4-9 yrs",
+      "location": "Chennai",
+      "salary": "\u20b915 \u2013 25 LPA",
+      "type": "analytics",
+      "skills": [
+        "Rfi",
+        "Presales",
+        "Sales",
+        "New Business Development",
+        "Rfq",
+        "Rfp..."
+      ],
+      "description": "- Strong enough technical chops (RFI RFP level, some architecture experience is good) but deep ......"
+    },
+    {
+      "id": 196,
+      "title": "Sr. IT Erp/sap Business Process Analyst - SAP MM, SRM, and Tax",
+      "experience": "5-10 yrs",
+      "location": "Chennai",
+      "salary": "\u20b93 \u2013 6 LPA",
+      "type": "Full Time",
+      "skills": [
+        "Srm",
+        "Mm",
+        "Srm / Mm",
+        "Mm / Srm"
+      ],
+      "description": "- Candidate must have good experience in understanding and troubleshooting issues related to all the ......"
+    },
+    {
+      "id": 197,
+      "title": "Functional Analyst cum Scrum Master",
+      "experience": "3-8 yrs",
+      "location": "Pune",
+      "salary": "\u20b915 \u2013 25 LPA",
+      "type": "Full Time",
+      "skills": [
+        "Spring Framework",
+        "Hibernate",
+        "Java",
+        "J2Ee",
+        "Agile",
+        "Scrum Master..."
+      ],
+      "description": "Collaborate with Business Analysts to elicit, review and improve functional specifications (based on ......"
+    },
+    {
+      "id": 200,
+      "title": "Business Analyst-r&d Engineer",
+      "experience": "6-9 yrs",
+      "location": "Bengaluru(Indira Nagar)",
+      "salary": "\u20b915 \u2013 25 LPA",
+      "type": "Full Time",
+      "skills": [
+        "Business Analysis",
+        "Ai",
+        "Machine Learning",
+        "Nlp",
+        "Rpa",
+        ".Net",
+        "Brd"
+      ],
+      "description": "Need to have good exposure to product development and product life cycle;Good verbal, written and ......"
+    },
+    {
+      "id": 201,
+      "title": "Technical Architect",
+      "experience": "9-14 yrs",
+      "location": "Mumbai Suburbs",
+      "salary": "\u20b910 \u2013 15 LPA",
+      "type": "Full Time",
+      "skills": [
+        "Azure",
+        "Mvc",
+        "Artificial Intelligence"
+      ],
+      "description": "The ideal candidate will have successful experience in leading deep senior level technical architecture ......"
+    },
+    {
+      "id": 206,
+      "title": "Team Lead   Technical Analytics",
+      "experience": "10-14 yrs",
+      "location": "Hyderabad",
+      "salary": "\u20b96 \u2013 10 LPA",
+      "type": "Analytics",
+      "skills": [
+        "Technical Lead",
+        "Team Leader",
+        "Project Management",
+        "Supply Chain..."
+      ],
+      "description": "Enterprise analytics position requiring hands-on technical problem solving."
+    },
+    {
+      "id": 207,
+      "title": "Senior Software Engineer _UI Developer",
+      "experience": "4-8 yrs",
+      "location": "Bengaluru",
+      "salary": "\u20b910 \u2013 15 LPA",
+      "type": "Full Time",
+      "skills": [
+        "Html",
+        "Application Support",
+        "Agile",
+        "Scrum",
+        "Git",
+        "Analytical..."
+      ],
+      "description": "Should Have an understanding of agile software development life cycle processes requirements gathering, ......"
+    },
+    {
+      "id": 209,
+      "title": "Marketing Analytics Intern",
+      "experience": "0-1 yrs",
+      "location": "Mumbai",
+      "salary": "\u20b90 \u2013 3 LPA",
+      "type": "Analytics",
+      "skills": [
+        "Marketing Analytics",
+        "Marketing",
+        "Digital Marketing",
+        "English..."
+      ],
+      "description": "Bachelors or Masters degree, preferably in ......"
+    },
+    {
+      "id": 211,
+      "title": "Actively Hiring \"statistical Analyst\" for a Fortune 500 Company",
+      "experience": "9-14 yrs",
+      "location": "Bengaluru",
+      "salary": "\u20b910 \u2013 15 LPA",
+      "type": "analytics",
+      "skills": [
+        "Sas",
+        "R",
+        "Predictive Modeling",
+        "Time Series Analysis",
+        "Analytics..."
+      ],
+      "description": "Must have a solid understanding of business drivers and how data is used to inform and drive decisions ......"
+    },
+    {
+      "id": 212,
+      "title": "Devops Engineer",
+      "experience": "3-6 yrs",
+      "location": "Gurgaon(Cyber City)",
+      "salary": "\u20b910 \u2013 15 LPA",
+      "type": "Full Time",
+      "skills": [
+        "Jenkins",
+        "Continuous Integration",
+        "Problem Solving",
+        "Quality Tools",
+        "Root Cause..."
+      ],
+      "description": "Work closely with development teams to ensure that solutions are designed with customer user experience, ......"
+    },
+    {
+      "id": 215,
+      "title": "Business Analyst,",
+      "experience": "1-4 yrs",
+      "location": "Mumbai",
+      "salary": "\u20b90 \u2013 3 LPA",
+      "type": "Full Time",
+      "skills": [],
+      "description": "Enterprise analytics position requiring hands-on technical problem solving."
+    },
+    {
+      "id": 219,
+      "title": "Applications Engineer (RF and Microwave Components)",
+      "experience": "0-5 yrs",
+      "location": "Chennai",
+      "salary": "\u20b915 \u2013 25 LPA",
+      "type": "Full Time",
+      "skills": [
+        "Direct Sales",
+        "Marketing",
+        "Business Development",
+        "Customer Service..."
+      ],
+      "description": "The candidate should have proven track record on working with customers on a regular basis offering ......"
+    },
+    {
+      "id": 222,
+      "title": "Manager/sr. Manager - Analytics - Life & Annuities - Insurance Domain",
+      "experience": "4-8 yrs",
+      "location": "Gurgaon",
+      "salary": "\u20b915 \u2013 25 LPA",
+      "type": "Analytics",
+      "skills": [
+        "Text Mining",
+        "Machine Learning",
+        "R",
+        "Data Mining",
+        "Sas",
+        "Logistic Regression..."
+      ],
+      "description": "- Hands on experience in Data modelling and data analytics tools like, SQL, Tableau and R or Python and ......"
+    },
+    {
+      "id": 224,
+      "title": "Assistant Manager/ Senior Business Analyst - Fraud Analytics",
+      "experience": "2-6 yrs",
+      "location": "Delhi NCR, Gurgaon",
+      "salary": "\u20b910 \u2013 15 LPA",
+      "type": "Analytics",
+      "skills": [
+        "Excel",
+        "Fraud Analytics",
+        "Business Analysis",
+        "Sas",
+        "Customer Service",
+        "Strategic..."
+      ],
+      "description": "- Ability to analyze situations and issues, identify options, draw logical conclusions and sound ......"
+    },
+    {
+      "id": 225,
+      "title": "TS- Emeia- Senior Analyst",
+      "experience": "1-3 yrs",
+      "location": "Gurgaon",
+      "salary": "\u20b93 \u2013 6 LPA",
+      "type": "Full Time",
+      "skills": [
+        "Finance",
+        "Cash Flow",
+        "Banking",
+        "Financial Due Diligence",
+        "Accounting..."
+      ],
+      "description": "Chartered Accountancy degree or MBA in Finance from a premier institute with 1-3 years of experience in ......"
+    },
+    {
+      "id": 227,
+      "title": "Consultant - Retail & CPG Analytics",
+      "experience": "7-12 yrs",
+      "location": "Pune",
+      "salary": "\u20b910 \u2013 15 LPA",
+      "type": "Analytics",
+      "skills": [
+        "Cpg",
+        "Retail",
+        "Analytics",
+        "Consulting",
+        "Qualitative Analysis..."
+      ],
+      "description": "Enterprise analytics position requiring hands-on technical problem solving."
+    },
+    {
+      "id": 229,
+      "title": "Infrastructure Security Analyst",
+      "experience": "4-6 yrs",
+      "location": "Gurgaon, Gurugram",
+      "salary": "\u20b96 \u2013 10 LPA",
+      "type": "Full Time",
+      "skills": [
+        "Infrastructure Security Analyst",
+        "Infrastructure Security",
+        "Owasp Zap..."
+      ],
+      "description": "- Experience Level : 4 to 6 years;- Demonstrable experience in vulnerability management for enterprise ......"
+    },
+    {
+      "id": 231,
+      "title": "Data Analyst/developer - Sql/postgresql",
+      "experience": "4-9 yrs",
+      "location": "Kolkata",
+      "salary": "\u20b910 \u2013 15 LPA",
+      "type": "Full Time",
+      "skills": [
+        "Predictive Modeling",
+        "Sql",
+        "Data Mining",
+        "Data Analysis",
+        "R",
+        "Bash Scripting..."
+      ],
+      "description": "- 2+ years of software engineering experience;- Experience working with large datasets;- Good analytical, ......"
+    },
+    {
+      "id": 237,
+      "title": "Senior Data and Tools Analyst, Gartner Research & Advisory",
+      "experience": "3-5 yrs",
+      "location": "Gurgaon",
+      "salary": "\u20b93 \u2013 6 LPA",
+      "type": "Full Time",
+      "skills": [
+        "Data Reporting",
+        "Reporting Tools",
+        "Data Analysis",
+        "Web Technologies..."
+      ],
+      "description": "Enterprise analytics position requiring hands-on technical problem solving."
+    },
+    {
+      "id": 240,
+      "title": "Senior Software Development Engineer - Test - Automation Testing",
+      "experience": "8-10 yrs",
+      "location": "Hyderabad",
+      "salary": "\u20b910 \u2013 15 LPA",
+      "type": "Full Time",
+      "skills": [
+        "Java",
+        "Php",
+        "Javascript",
+        "Test Cases",
+        "Test Analysis",
+        "Automation Testing..."
+      ],
+      "description": "Experience with testing frameworks like testng is compulsory;- Looking for a challenging projects to ......"
+    },
+    {
+      "id": 241,
+      "title": "Business Finance Analyst 2",
+      "experience": "5-8 yrs",
+      "location": "Bengaluru",
+      "salary": "\u20b96 \u2013 10 LPA",
+      "type": "Full Time",
+      "skills": [
+        "Business Finance",
+        "Financial Planning",
+        "Budgeting",
+        "Financial Analysis..."
+      ],
+      "description": "Good planning and organisational skills;CA or MBA is ......"
+    },
+    {
+      "id": 243,
+      "title": "Talend Big Data",
+      "experience": "2-5 yrs",
+      "location": "Bengaluru",
+      "salary": "\u20b96 \u2013 10 LPA",
+      "type": "Analytics",
+      "skills": [
+        "Python",
+        "Business Intelligence",
+        "Data Modeling",
+        "Performance Tuning",
+        "Analytics..."
+      ],
+      "description": "Accenture Technology powers our clients businesses with innovative technologies established and emerging ......"
+    }
+  ]
+}
