@@ -21,7 +21,8 @@ COPY --from=frontend-builder /app/dist ./dist
 # Copy trained model artifacts and dataset files
 COPY skillpulse_models ./skillpulse_models
 COPY scripts ./scripts
-COPY "SAS Data Problem Statement and Instructions Hackathon" "./SAS Data Problem Statement and Instructions Hackathon"
+COPY cleaned_jobs.csv .
+COPY ["SAS Data Problem Statement and Instructions Hackathon", "./SAS Data Problem Statement and Instructions Hackathon/"]
 
 # Configure production port
 ENV PORT=5001
